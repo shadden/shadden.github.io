@@ -1,1 +1,244 @@
-hello world
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Transit Timing Variations</title>
+    </head>
+    <body style="font-family:sans-serif;
+		width:600px; 
+		margin-left:auto;
+		margin-right:auto;
+ 		background-color:#c0c0c0;"
+     >
+        <h1 
+	style="
+		font-size:24px;
+		text-align:center;
+		color:#800000;
+	"
+	>
+	Characterizing Kepler's Planets with Transit Timing Variations
+	</h1>
+        <h2 
+	style="
+		font-size:24px;
+		text-align:left;
+		color:#800000;
+	"
+	>
+	Introduction
+	</h2>
+        <p>
+	The Kepler telescope has discovered thousands of planets outside our solar system.
+	The plot below shows the size and orbital periods of Kepler's discoveries:
+	</p>
+
+	<div 
+		style="width:500px;
+	 	margin-left:auto; margin-right:auto;"
+	 >
+		<img src="kepler_radperiod.png" width="500" height="400" style="position:absolute;">
+		
+		<canvas id="theCanvas" width="500" height="400" style="position:relative;">
+			  Canvas not supported; please update your browser.
+		</canvas>
+	</div>
+	<p>
+	The transit method that Kepler uses to discover planets
+	readily yields information about those planets' sizes (from the depth of the transit)
+	and orbital periods (from how frequently transits occur). In the plot above you can see 
+	that Kepler has discovered many planets that are intermediate in size between Earth and Neptune
+	(approximately 4x the size of Earth), and with orbits ranging from a few days to 
+	~100 days or so. Given the fact that our Solar System has no analogous planets, its natural to ask:
+	What are these planets like?
+	</p>
+	<p>
+	To answer these questions, we need to know more than just these planets' sizes and orbital periods.
+ 	In particular, we need to know their densities in order to distinguish between rocky, terrestrial planets
+	similar to Earth versus planets that are similar to the gas and ice giants of the outer Solar System.
+	Since we already know the sizes of these planets from measuring their transits, we can determine the planets'
+	densities if we can measure their masses. We'll be looking at a method of determining planet masses, and
+	therefore measuring densities, of exoplanets based on transit observations.
+	</p>
+	<p>
+	Kepler's Laws tell us how a single, isolated planet orbits under the influence of its host star's gravity.
+	Such a planet traces out an ellipse in an amount of time, the orbital period, related to the planet's average distance from the star.
+ 	However, when multiple planets orbit the same star, they experience gravitational forces from each other
+	in addition to the gravity of their host star. These gravitational forces are much weaker than the gravitational force of the
+	star becuase the planets are much less massive.
+ 	Therefore, Kepler's Laws are still an excellent approximation to the planets' motion, but are not perfect. 
+	In particular, the planets' orbital periods are no longer constant-- each successive orbit is slightly longer or shorter relative
+	to the orbit the planet would have in the absence of other planets.
+	In fact, the length of Earth's year can vary by up to a 
+	few minutes each year due to interactions with the other planets in the Solar System.
+	Because the gravitational force between two objects depends on those objects' masses, if we can measure the changes in planets' 
+	orbits caused by their mutual gravitational interactions, we have an indirect probe of their masses. 
+	</p>
+	<p>
+	<div 
+		style="width:500px;
+	 	margin-left:auto; margin-right:auto;"
+	 >
+		<img src="ttv_example.pdf" width="500" height="500" style="position:absolute;">
+		
+		<canvas id="theCanvas" width="500" height="500" style="position:relative;">
+			  Canvas not supported; please update your browser.
+		</canvas>
+	</div>
+	The above plot illustrates this effect for two hypothetical planets. Imagine that we start observing a star with a single
+	transiting planet. Suppose that each time we observe the planet transiting, we record the time measured relative
+	to when we started observing. In this way, we can construct a plot of transit time versus transit number as shown below
+	in the blue points. What does the slope of this line represent? If there are other planets orbiting the same star and 
+	interacting gravitiationally with the transiting planet, our plot of transit number versus transit time would look 
+	something like the yellow points instead.
+	</p>
+<!--
+        <h2 
+	style="
+		font-size:24px;
+		text-align:left;
+		color:#800000;
+	"
+	>
+	An Example Transit Timing Variation System:
+	</h2>
+	<p>
+	 While the changes in a planets orbital period are generally small relative to the planet's total (average) orbital period, 
+	the changes can be large enought to be detectable by Kepler. We'll look at an example system, Kepler-18 where this is the case.
+	Kepler-18 has three discovered planets.  The planets' orbits and sizes, in comparison Solar System planets are shown below:
+	</p>
+	<div 
+		style="width:500px;
+	 	margin-left:auto; margin-right:auto;"
+	 >
+		<img src="Kepler18_orbits.jpeg" width="500" height="500" style="position:absolute;">
+		
+		<canvas id="theCanvas" width="500" height="500" style="position:relative;">
+			  Canvas not supported; please update your browser.
+		</canvas>
+	</div>
+	-->
+        <h2 
+	style="
+		font-size:24px;
+		text-align:left;
+		color:#800000;
+	"
+
+	>
+	Computing Transit Timing Variations:
+	</h2>
+	<p>
+	Use interactive module below to compute transit times.
+	The module solves for the motion of two planets orbiting a star and records the times at which
+	the inner (blue) planet transits the star (as would be observed from the direction indicated by the 
+	`Towards Earth' line).  
+	Adjust the planet's orbital properties using the sliders provided
+	or enter values by hand after clicking the `+' sign next to each slider.
+	Once you have set the planet parameters, compute transit times using the 'Compute Transit Times' button.
+	After computing transit times, you can copy them your clipboard using the 'Copy Transit Times' button.
+	They can then be pasted into a spreadsheet program such as <a href="https://plot.ly"> plot.ly </a>.
+	<b> Important: </b> Be sure to recompute transit times after adjusting any parameters. The proper
+	transit times are not displayed until the 'Compute Transit Times' button is pressed again.
+	</p>
+	<!-- TTV Compute -->
+	
+	<script type="text/javascript" src="http://www.wolfram.com/cdf-player/plugin/v2.1/cdfplugin.js"></script>
+	<script type="text/javascript">
+	var cdf = new cdfplugin();
+	cdf.setDefaultContent('<a href="http://www.wolfram.com/cdf-player/"><img  src="TTVCompute.png"></a>');
+	cdf.embed('TTVCompute.cdf', 838, 997);
+	</script>
+
+	
+	<!-- Old TTV Compute 
+	<script type="text/javascript" src="http://www.wolfram.com/cdf-player/plugin/v2.1/cdfplugin.js"></script>
+	<script type="text/javascript">
+	var cdf = new cdfplugin();
+	cdf.setDefaultContent('<a href="http://www.wolfram.com/cdf-player/"><img  src="Untitled2.png"></a>');
+	cdf.embed('Untitled2.cdf', 1545, 1630);
+	</script>
+	-->
+
+	<!-- Random Numbers Button 
+	<script type="text/javascript" src="http://www.wolfram.com/cdf-player/plugin/v2.1/cdfplugin.js"></script>
+	<script type="text/javascript">
+	var cdf = new cdfplugin();
+	cdf.setDefaultContent('<a href="http://www.wolfram.com/cdf-player/"><img  src="random_button.png"></a>');
+	cdf.embed('random_button.cdf', 86, 28);
+	</script>
+	-->
+	<p>
+	1. Run the simulation with the initial parameters. 
+	Copy the transit times to <a href="https://plot.ly"> plot.ly </a> grid.
+	<a href="https://plot.ly/online-graphing/tutorials/create-a-line-of-best-fit-online/"> Fit a line to the data</a>. What does the 
+	slope of this line represent? Does this agree with what you expect based on the the input paramter(s)?
+	</p>
+	<p>
+	2. Compute a TTV: If the blue planet didn't have a companion, the line that we fit in Part 1 would predict
+	the transit times of the planet perfectly (Why?). However, the gravitational interactions with the outer 
+	planet result in transit times similar to the `Perturbed Planet' shown above in the discussion. However,
+	that plot has been greatly exaggerated, and the TTVs are so small that they cannot be seen on the graph
+	produced in Part 1. In order to see the TTVs, we'll subtract off this line. This can be done in plot.ly
+	as follows:
+	<ul>
+	<li>In the grid view select "Data Analysis: fit data".</li> 
+	<li>Choose the default fit (Linear) and select "Run this fit".</li>
+	<li>The third column now shows the 'predicted' trnasit times based on the linear fit, which we will subtract
+	from the observed transit times.</li>
+	<li>To subtract the 'predicted' transit times from the observed, choose "Data Tools: Formulas"</li>
+	<li>Selecting 'Col2' as the 'y' values and 'Col2-fit' as the 'x' values, enter the formula 'y-x'</li>
+	<li>This produces a column that contains the difference between the observed and predicted transit times</li>
+	<li>Plot these values to see the TTV</li>
+	</ul>
+	</p>
+	<p>
+	3. <a href="http://www.openexoplanetcatalogue.com/planet/Kepler-18%20d/" > Kepler-18 `c' and `d'</a> 
+	 are a pair of planets taht are slightly larger than Uranus: 
+	<div 
+		style="width:400px;
+	 	margin-left:auto; margin-right:auto;"
+	 >
+		<img src="Kepler18_cd_size_crp.png" width="400" height="200" style="position:absolute;">
+		
+		<canvas id="theCanvas" width="400" height="200" style="position:relative;">
+			  Canvas not supported; please update your browser.
+		</canvas>
+	</div>
+	and orbits of approximately 7 and 14 days, respectively. 
+	The planet pair exhibits TTVs with amplitudes of ~10 minutes as shown below:
+	<div 
+		style="width:400px;
+	 	margin-left:auto; margin-right:auto;"
+	 >
+		<img src="kep18TTV.png" width="400" height="200" style="position:absolute;">
+		
+		<canvas id="theCanvas" width="400" height="200" style="position:relative;">
+			  Canvas not supported; please update your browser.
+		</canvas>
+	</div>
+	Astronomers have used their TTVs to determine their masses.
+	Input the observed periods and masses quoted for these planets in the link
+	above. Do the TTVs you compute have a similar amplitude and period?
+	(Note: there is a third planet, Kepler 18-b in the
+	Kepler-18 system.  This planet is signifcantly smaller than the other two planets. We can this planets 
+	effect on the TTVs of planet `c' and `d' for our purposes.)
+	<ul>
+	<li>
+	Increase the mass of the outer planet (Kepler-18 d). What effect does this have on the transit times? 
+	(e.g. if the mass is doubled, the TTV amplitude increases by a factor of...)
+	</li>
+	<li>Does the mass of Kepler-18c effect the TTV?</li>
+	<li>
+	Describe the effect of small changes to the planet periods. Try values that make the planet periods
+	both closer and farther away from an exact 2:1 ratio.	
+	</li>
+	<li>Try computing TTVs with the eccentricity set to 0 first. 
+	What happens to the TTV amplitude when you increase the outer planet eccentricity? 
+	Comment on how the effects of eccentricty may complicate measuring planet masses.
+	</li>
+	</ul>
+	</p>
+	</script>
+    </body> 
+</html>
