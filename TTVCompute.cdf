@@ -23,10 +23,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[      1064,         20]
-NotebookDataLength[     18210,        391]
-NotebookOptionsPosition[     18699,        383]
-NotebookOutlinePosition[     19214,        406]
-CellTagsIndexPosition[     19171,        403]
+NotebookDataLength[     18973,        404]
+NotebookOptionsPosition[     19459,        396]
+NotebookOutlinePosition[     19976,        419]
+CellTagsIndexPosition[     19933,        416]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -46,31 +46,31 @@ Cell[BoxData[
     3, 1][$CellContext`t], Derivative[1][
      $CellContext`x[3, 2]][$CellContext`t] == $CellContext`v[
     3, 2][$CellContext`t], 
-   3.*^-6 ($CellContext`x[1, 1][$CellContext`t] - $CellContext`x[
+   0.000015 ($CellContext`x[1, 1][$CellContext`t] - $CellContext`x[
       2, 1][$CellContext`t]) (($CellContext`x[
           1, 1][$CellContext`t] - $CellContext`x[
          2, 1][$CellContext`t])^2 + ($CellContext`x[
           1, 2][$CellContext`t] - $CellContext`x[2, 2][$CellContext`t])^2)^
       Rational[-3, 2] + 
-    0.00003 ($CellContext`x[1, 1][$CellContext`t] - $CellContext`x[
+    0.000015 ($CellContext`x[1, 1][$CellContext`t] - $CellContext`x[
       3, 1][$CellContext`t]) (($CellContext`x[
           1, 1][$CellContext`t] - $CellContext`x[
          3, 1][$CellContext`t])^2 + ($CellContext`x[
           1, 2][$CellContext`t] - $CellContext`x[3, 2][$CellContext`t])^2)^
       Rational[-3, 2] + Derivative[1][
       $CellContext`v[1, 1]][$CellContext`t] == 0, 
-   3.*^-6 (($CellContext`x[1, 1][$CellContext`t] - $CellContext`x[
+   0.000015 (($CellContext`x[1, 1][$CellContext`t] - $CellContext`x[
          2, 1][$CellContext`t])^2 + ($CellContext`x[
           1, 2][$CellContext`t] - $CellContext`x[2, 2][$CellContext`t])^2)^
       Rational[-3, 2] ($CellContext`x[1, 2][$CellContext`t] - $CellContext`x[
       2, 2][$CellContext`t]) + 
-    0.00003 (($CellContext`x[1, 1][$CellContext`t] - $CellContext`x[
+    0.000015 (($CellContext`x[1, 1][$CellContext`t] - $CellContext`x[
          3, 1][$CellContext`t])^2 + ($CellContext`x[
           1, 2][$CellContext`t] - $CellContext`x[3, 2][$CellContext`t])^2)^
       Rational[-3, 2] ($CellContext`x[1, 2][$CellContext`t] - $CellContext`x[
       3, 2][$CellContext`t]) + Derivative[1][
       $CellContext`v[1, 2]][$CellContext`t] == 0, 
-   0.00003 ($CellContext`x[2, 1][$CellContext`t] - $CellContext`x[
+   0.000015 ($CellContext`x[2, 1][$CellContext`t] - $CellContext`x[
       3, 1][$CellContext`t]) (($CellContext`x[
           2, 1][$CellContext`t] - $CellContext`x[
          3, 1][$CellContext`t])^2 + ($CellContext`x[
@@ -83,7 +83,7 @@ Cell[BoxData[
         2, 1][$CellContext`t])^2 + ($CellContext`x[
          1, 2][$CellContext`t] - $CellContext`x[2, 2][$CellContext`t])^2)^
      Rational[-3, 2], 
-   0.00003 (($CellContext`x[2, 1][$CellContext`t] - $CellContext`x[
+   0.000015 (($CellContext`x[2, 1][$CellContext`t] - $CellContext`x[
          3, 1][$CellContext`t])^2 + ($CellContext`x[
           2, 2][$CellContext`t] - $CellContext`x[3, 2][$CellContext`t])^2)^
       Rational[-3, 2] ($CellContext`x[2, 2][$CellContext`t] - $CellContext`x[
@@ -103,7 +103,7 @@ Cell[BoxData[
          3, 1][$CellContext`t])^2 + ($CellContext`x[
           1, 2][$CellContext`t] - $CellContext`x[3, 2][$CellContext`t])^2)^
       Rational[-3, 2] + 
-    3.*^-6 ($CellContext`x[2, 1][$CellContext`t] - $CellContext`x[
+    0.000015 ($CellContext`x[2, 1][$CellContext`t] - $CellContext`x[
       3, 1][$CellContext`t]) (($CellContext`x[
           2, 1][$CellContext`t] - $CellContext`x[
          3, 1][$CellContext`t])^2 + ($CellContext`x[
@@ -116,20 +116,20 @@ Cell[BoxData[
           1, 2][$CellContext`t] - $CellContext`x[3, 2][$CellContext`t])^2)^
       Rational[-3, 2] ($CellContext`x[1, 2][$CellContext`t] - $CellContext`x[
       3, 2][$CellContext`t]) + 
-    3.*^-6 (($CellContext`x[2, 1][$CellContext`t] - $CellContext`x[
+    0.000015 (($CellContext`x[2, 1][$CellContext`t] - $CellContext`x[
          3, 1][$CellContext`t])^2 + ($CellContext`x[
           2, 2][$CellContext`t] - $CellContext`x[3, 2][$CellContext`t])^2)^
       Rational[-3, 2] ($CellContext`x[2, 2][$CellContext`t] - $CellContext`x[
       3, 2][$CellContext`t]), $CellContext`x[2, 1][0] == 
    1., $CellContext`x[2, 2][0] == 0., $CellContext`v[2, 1][0] == 
    0., $CellContext`v[2, 2][0] == 
-   1.0000014999988749`, $CellContext`x[3, 1][0] == 
-   1.613748707260082, $CellContext`x[3, 2][0] == 0., $CellContext`v[3, 1][0] == 
-   0., $CellContext`v[3, 2][0] == 
-   0.7872062991751936, $CellContext`x[1, 1][
-    0] == -0.000051412461217802463`, $CellContext`v[1, 1][0] == 
+   1.0000074999718753`, $CellContext`x[3, 1][0] == 
+   1.3161881150019525`, $CellContext`x[3, 2][0] == 
+   0., $CellContext`v[3, 1][0] == 0., $CellContext`v[3, 2][0] == 
+   0.871654295613111, $CellContext`x[1, 1][
+    0] == -0.00003474282172502929, $CellContext`v[1, 1][0] == 
    0., $CellContext`x[1, 2][0] == 
-   0., $CellContext`v[1, 2][0] == -0.00002661619347525243, 
+   0., $CellContext`v[1, 2][0] == -0.000028074926933774795`, 
    WhenEvent[
     And[$CellContext`x[2, 1][$CellContext`t] - $CellContext`x[
       1, 1][$CellContext`t] == 
@@ -137,48 +137,53 @@ Cell[BoxData[
       1, 2][$CellContext`t] > 0], 
     Sow[$CellContext`t]]}, $CellContext`soln$$, $CellContext`boxscale$$ = 
   1., $CellContext`ttv$$, $CellContext`Tmax$$ = 1550, $CellContext`mPert$$ = 
-  0.00003, $CellContext`pPert$$ = 
-  2.0500000000000003`, $CellContext`scaledTransits$$ = {0}}, 
+  0.000015, $CellContext`pPert$$ = 1.51, $CellContext`scaledTransits$$ = {
+  0}, $CellContext`mBlue$$ = 0.000015}, 
   TagBox[
    StyleBox[
-    DynamicModuleBox[{$CellContext`ecc$$ = 0., $CellContext`mPertEarth$$ = 
-     10, $CellContext`o$$ = 0., $CellContext`period$$ = 
-     10., $CellContext`ppPert$$ = 
-     2.05 $CellContext`period$$, $CellContext`ylim$$ = 30, Typeset`show$$ = 
-     True, Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
+    DynamicModuleBox[{$CellContext`ecc$$ = 0., $CellContext`mMain$$ = 
+     5, $CellContext`mPertEarth$$ = 5, $CellContext`o$$ = 
+     0., $CellContext`period$$ = 10., $CellContext`ppPert$$ = 
+     15.1, $CellContext`ylim$$ = 30, Typeset`show$$ = True, 
+     Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
      Typeset`animator$$, Typeset`animvar$$ = 1, Typeset`name$$ = 
-     "\"untitled\"", Typeset`specs$$ = {{{
+     "\"untitled\"", Typeset`specs$$ = {{
+       Hold["Periods"], Manipulate`Dump`ThisIsNotAControl}, {{
         Hold[$CellContext`period$$], 10., "Blue Planet Period (days)"}, 5., 
        50}, {{
-        Hold[$CellContext`ppPert$$], 2.05 $CellContext`period$$, 
-        "Companion Period (days)"}, 
-       Dynamic[5 ((1 + 0.008)/4.) $CellContext`period$$], 
-       Dynamic[3 $CellContext`period$$]}, {{
-        Hold[$CellContext`mPertEarth$$], 10, 
+        Hold[$CellContext`ppPert$$], 15.1, "Brown Planet Period (days)"}, 5., 
+       50.}, {
+       Hold["Masses"], Manipulate`Dump`ThisIsNotAControl}, {{
+        Hold[$CellContext`mPertEarth$$], 5, 
         "Brown Planet Mass (in Earth Masses)"}, 1, 20}, {{
+        Hold[$CellContext`mMain$$], 5, "Blue Planet Mass (in Earth Masses)"}, 
+       1, 20}, {
+       Hold["Orbit"], Manipulate`Dump`ThisIsNotAControl}, {{
         Hold[$CellContext`ecc$$], 0., "Brown Planet Eccentricity"}, 0., 
        0.1}, {{
         Hold[$CellContext`o$$], 0., 
-        "Companion Angle of Periapse (Radians)"}, -Pi, Pi}, {{
-        Hold[$CellContext`ylim$$], 30, "Plot Range (min.)"}, 10, 120}}, 
+        "Brown Planet Angle of Periapse (Radians)"}, -Pi, Pi}, {{
+        Hold[$CellContext`ylim$$], 30, "Plot Range (min.)"}, 10, 200}}, 
      Typeset`size$$ = {789., {379.634033203125, 385.365966796875}}, 
      Typeset`update$$ = 0, Typeset`initDone$$, Typeset`skipInitDone$$ = 
-     True, $CellContext`period$1944$$ = 0, $CellContext`ppPert$1945$$ = 
-     0, $CellContext`mPertEarth$1946$$ = 0, $CellContext`ecc$1947$$ = 
-     0, $CellContext`o$1948$$ = 0, $CellContext`ylim$1949$$ = 0}, 
+     True, $CellContext`period$1775224$$ = 0, $CellContext`ppPert$1775225$$ = 
+     0, $CellContext`mPertEarth$1775226$$ = 0, $CellContext`mMain$1775227$$ = 
+     0, $CellContext`ecc$1775228$$ = 0, $CellContext`o$1775229$$ = 
+     0, $CellContext`ylim$1775230$$ = 0}, 
      DynamicBox[Manipulate`ManipulateBoxes[
       1, StandardForm, 
-       "Variables" :> {$CellContext`ecc$$ = 0., $CellContext`mPertEarth$$ = 
-         10, $CellContext`o$$ = 0., $CellContext`period$$ = 
-         10., $CellContext`ppPert$$ = 
-         2.05 $CellContext`period$$, $CellContext`ylim$$ = 30}, 
-       "ControllerVariables" :> {
-         Hold[$CellContext`period$$, $CellContext`period$1944$$, 0], 
-         Hold[$CellContext`ppPert$$, $CellContext`ppPert$1945$$, 0], 
-         Hold[$CellContext`mPertEarth$$, $CellContext`mPertEarth$1946$$, 0], 
-         Hold[$CellContext`ecc$$, $CellContext`ecc$1947$$, 0], 
-         Hold[$CellContext`o$$, $CellContext`o$1948$$, 0], 
-         Hold[$CellContext`ylim$$, $CellContext`ylim$1949$$, 0]}, 
+       "Variables" :> {$CellContext`ecc$$ = 0., $CellContext`mMain$$ = 
+         5, $CellContext`mPertEarth$$ = 5, $CellContext`o$$ = 
+         0., $CellContext`period$$ = 10., $CellContext`ppPert$$ = 
+         15.1, $CellContext`ylim$$ = 30}, "ControllerVariables" :> {
+         Hold[$CellContext`period$$, $CellContext`period$1775224$$, 0], 
+         Hold[$CellContext`ppPert$$, $CellContext`ppPert$1775225$$, 0], 
+         Hold[$CellContext`mPertEarth$$, $CellContext`mPertEarth$1775226$$, 
+          0], 
+         Hold[$CellContext`mMain$$, $CellContext`mMain$1775227$$, 0], 
+         Hold[$CellContext`ecc$$, $CellContext`ecc$1775228$$, 0], 
+         Hold[$CellContext`o$$, $CellContext`o$1775229$$, 0], 
+         Hold[$CellContext`ylim$$, $CellContext`ylim$1775230$$, 0]}, 
        "OtherVariables" :> {
         Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
          Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
@@ -193,12 +198,13 @@ Cell[BoxData[
                Range[3], {2}], {1}], $CellContext`r[
                Pattern[$CellContext`i, 
                 Blank[]], 
-               Pattern[$CellContext`j, 
+               Pattern[Perturbations`Common`PerturbationsCommon`j, 
                 Blank[]]] :> Sqrt[
                
                Sum[($CellContext`x[$CellContext`i, $CellContext`k] - \
-$CellContext`x[$CellContext`j, $CellContext`k])^2, {$CellContext`k, 1, 
-                 2}]]]]; $CellContext`eqns = Join[
+$CellContext`x[
+                 Perturbations`Common`PerturbationsCommon`j, \
+$CellContext`k])^2, {$CellContext`k, 1, 2}]]]]; $CellContext`eqns = Join[
            Flatten[
             Array[Derivative[1][
                $CellContext`x[
@@ -226,17 +232,19 @@ $CellContext`i2][$CellContext`t]]& , {3, 2}]]]]; $CellContext`planetInits =
                 $CellContext`x[$CellContext`i, 2][0]} == Dot[
                 RotationMatrix[
                  $CellContext`\[Theta][$CellContext`i]], \
-{$CellContext`a[$CellContext`i] (1 - $CellContext`e[$CellContext`i]), 0}]], 
+{$CellContext`a[$CellContext`i] (1 - 
+                  Perturbations`Common`PerturbationsCommon`e[$CellContext`i]),
+                  0}]], 
              Thread[{
                 $CellContext`v[$CellContext`i, 1][0], 
                 $CellContext`v[$CellContext`i, 2][0]} == Dot[
                 RotationMatrix[
                  $CellContext`\[Theta][$CellContext`i]], {
-                0, 
-                 Plus[(($CellContext`m[
+                0, Plus[(($CellContext`m[
                     1] + $CellContext`m[$CellContext`i])/$CellContext`a[$\
-CellContext`i])^Rational[1, 2]] ((1 + $CellContext`e[$CellContext`i])/(
-                   1 - $CellContext`e[$CellContext`i]))^
+CellContext`i])^Rational[1, 2]] ((1 + 
+                    Perturbations`Common`PerturbationsCommon`e[$CellContext`i]\
+)/(1 - Perturbations`Common`PerturbationsCommon`e[$CellContext`i]))^
                   Rational[1, 2]}]]}, {$CellContext`i, {2, 
              3}}]]; $CellContext`starVars = Flatten[
            Table[{
@@ -265,7 +273,8 @@ CellContext`i])^Rational[1, 2]] ((1 + $CellContext`e[$CellContext`i])/(
             0, $CellContext`x[2, 2][$CellContext`t] - $CellContext`x[
              1, 2][$CellContext`t] > 0], 
            Sow[$CellContext`t]]; $CellContext`mPert$$ = 
-         3.*^-6 $CellContext`mPertEarth$$; $CellContext`pPert$$ = \
+         3.*^-6 $CellContext`mPertEarth$$; $CellContext`mBlue$$ = 
+         3.*^-6 $CellContext`mMain$$; $CellContext`pPert$$ = \
 $CellContext`ppPert$$/$CellContext`period$$; $CellContext`boxscale$$ = \
 ($CellContext`period$$/10)^(2/3); $CellContext`input$$ = ReplaceAll[
            ReplaceAll[
@@ -276,13 +285,14 @@ $CellContext`ppPert$$/$CellContext`period$$; $CellContext`boxscale$$ = \
 $CellContext`starInits, {$CellContext`evnt}], 
               Thread[Table[
                  $CellContext`m[$CellContext`i], {$CellContext`i, 3}] -> {
-                1, 3.*^-6, $CellContext`mPert$$}]], 
+                1, $CellContext`mBlue$$, $CellContext`mPert$$}]], 
              Thread[Table[
                 $CellContext`a[$CellContext`i], {$CellContext`i, {2, 3}}] -> {
                1., $CellContext`pPert$$^(2/3)}]], 
             Thread[Table[
-               $CellContext`e[$CellContext`i], {$CellContext`i, {2, 3}}] -> {
-              0, $CellContext`ecc$$}]], 
+               
+               Perturbations`Common`PerturbationsCommon`e[$CellContext`i], \
+{$CellContext`i, {2, 3}}] -> {0, $CellContext`ecc$$}]], 
            Thread[Table[
               $CellContext`\[Theta][$CellContext`i], {$CellContext`i, {2, 
                3}}] -> {0, $CellContext`o$$}]]; Grid[{{
@@ -320,7 +330,9 @@ $CellContext`period$$ ($CellContext`transits$$/2) Pi; $CellContext`ttv$$ =
               Thickness[0.005], Red, 
               Text["Towards Earth", {1.5, 4.5}], Yellow, 
               Disk[{0, 0}, 0.25], Blue, 
-              Disk[{$CellContext`boxscale$$ 1., 0}, 0.1], Brown, 
+              
+              Disk[{$CellContext`boxscale$$ 1., 0}, 
+               0.1 $CellContext`mMain$$^(1/3)], Brown, 
               Disk[
                Dot[
                 
@@ -355,20 +367,21 @@ $CellContext`ylim$$}}, FrameLabel -> {"Transit Time (days)", "TTV (min.)"}]],
              TableView[
               MapIndexed[{
                 First[#2], #}& , $CellContext`scaledTransits$$]]]}}]), 
-       "Specifications" :> {{{$CellContext`period$$, 10., 
-           "Blue Planet Period (days)"}, 5., 
-          50}, {{$CellContext`ppPert$$, 2.05 $CellContext`period$$, 
-           "Companion Period (days)"}, 
-          Dynamic[5 ((1 + 0.008)/4.) $CellContext`period$$], 
-          Dynamic[
-          3 $CellContext`period$$]}, {{$CellContext`mPertEarth$$, 10, 
+       "Specifications" :> {
+        "Periods", {{$CellContext`period$$, 10., "Blue Planet Period (days)"},
+           5., 50}, {{$CellContext`ppPert$$, 15.1, 
+           "Brown Planet Period (days)"}, 5., 50.}, Delimiter, 
+         "Masses", {{$CellContext`mPertEarth$$, 5, 
            "Brown Planet Mass (in Earth Masses)"}, 1, 
-          20}, {{$CellContext`ecc$$, 0., "Brown Planet Eccentricity"}, 0., 
+          20}, {{$CellContext`mMain$$, 5, 
+           "Blue Planet Mass (in Earth Masses)"}, 1, 20}, Delimiter, 
+         "Orbit", {{$CellContext`ecc$$, 0., "Brown Planet Eccentricity"}, 0., 
           0.1}, {{$CellContext`o$$, 0., 
-           "Companion Angle of Periapse (Radians)"}, -Pi, 
-          Pi}, {{$CellContext`ylim$$, 30, "Plot Range (min.)"}, 10, 120}}, 
-       "Options" :> {}, "DefaultOptions" :> {}],
-      ImageSizeCache->{834., {495., 500.}},
+           "Brown Planet Angle of Periapse (Radians)"}, -Pi, Pi}, 
+         Delimiter, {{$CellContext`ylim$$, 30, "Plot Range (min.)"}, 10, 
+          200}}, "Options" :> {ControlPlacement -> Top}, 
+       "DefaultOptions" :> {}],
+      ImageSizeCache->{834., {546., 551.}},
       SingleEvaluation->True],
      Deinitialization:>None,
      DynamicModuleValues:>{},
@@ -381,9 +394,9 @@ $CellContext`ylim$$}}, FrameLabel -> {"Transit Time (days)", "TTV (min.)"}]],
    Manipulate`InterpretManipulate[1]],
   DynamicModuleValues:>{}]], "Output", "PluginEmbeddedContent"]
 },
-WindowSize->{838, 997},
+WindowSize->{838, 1099},
 Visible->True,
-AuthoredSize->{838, 997},
+AuthoredSize->{838, 1099},
 ScrollingOptions->{"HorizontalScrollRange"->Fit,
 "VerticalScrollRange"->Fit},
 ShowCellBracket->False,
@@ -405,11 +418,11 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[1464, 33, 17231, 348, 997, "Output"]
+Cell[1464, 33, 17991, 361, 1099, "Output"]
 }
 ]
 *)
 
 (* End of internal cache information *)
 
-(* NotebookSignature DxTq@VuLy38yQBKiJP#hVKt@ *)
+(* NotebookSignature rxD9D8PiP@9jxD1TK5m6uzs1 *)
