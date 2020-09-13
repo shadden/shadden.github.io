@@ -60,6 +60,9 @@ Hernandez D. M., **Hadden, S.**, Makino, J.; MNRAS, 493:1913.
  - [Kepler Planet Masses and Eccentricities from TTV Analysis](https://ui.adsabs.harvard.edu/abs/2017AJ....154....5H/abstract) 
 <br>**Hadden, S.** & Lithwick, Y.; AJ, 154:5.
 
+ - [The Gold Standard: Accurate Stellar and Planetary Parameters for Eight Kepler M Dwarf Systems Enabled by Parallaxes](https://ui.adsabs.harvard.edu/abs/2017AJ....153..267M/abstract)
+<br>Mann, A., Dupuy, T., Muirhead, P., et. al. including **Hadden, S.**;  AJ, 153:6. 
+
 **2016**
 
  - [Numerical and Analytical Modeling of Transit Timing Variations](https://ui.adsabs.harvard.edu/abs/2016ApJ...828...44H/abstract)
