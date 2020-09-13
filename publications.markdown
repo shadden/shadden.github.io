@@ -1,0 +1,82 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
+[Publications on ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-1032-0783&sort=date+desc)
+
+
+Refereed
+--------
+
+**2020**
+
+ - [Modeling Radial Velocity Data of Resonant Planets to Infer Migration Histories](https://ui.adsabs.harvard.edu/abs/2020AJ....160..106H/abstract)
+<br> **Hadden, S.**  & Payne, M. J.; AJ, 160:106.
+
+ - [Predicting the Long-Term Stability of Compact Multiplanet Systems](https://www.pnas.org/content/117/31/18194)
+<br> Tamayo, D., Cranmer, M., **Hadden, S.**, et. al.; PNAS, 117:31. 
+
+**2019**
+
+ - [Are long-term *N*-body simulations reliable?](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp..426H/abstract)
+<br>
+Hernandez D. M., **Hadden, S.**, Makino, J.; MNRAS, 493:1913.
+
+ - [An Integrable Model for the Dynamics of Planetary Mean-motion Resonances](https://ui.adsabs.harvard.edu/abs/2019AJ....158..238H/abstract)
+<br>
+**Hadden, S.**; AJ, 158:238.
+
+ - [Prospects for TTV Detection and Dynamical Constraints with TESS](https://ui.adsabs.harvard.edu/abs/2019AJ....158..146H/abstract)
+<br>
+**Hadden, S.**, Barclay, T., Payne, M. J., Holman, M. J.; AJ, 158:146.
+
+ - [Prospects for Refining Kepler TTV Masses using TESS Observations](https://ui.adsabs.harvard.edu/abs/2019AJ....157..142G/abstract)
+<br> *Goldberg, M.*, **Hadden, S.**, Payne, M. J., Holman, M. J.; AJ, 157:142.
+
+ - [The L 98-59 System: Three Transiting, Terrestrial-size Planets Orbiting a Nearby M Dwarf](https://ui.adsabs.harvard.edu/abs/2019AJ....158...32K/abstract)
+<br> Kostov, V. B., Schlieder, J. E., Barclay, T., et. al. including **Hadden, S.**; AJ, 158:1.
+
+ - [Near-resonance in a System of sub-Neptunes from TESS](https://ui.adsabs.harvard.edu/abs/2019AJ....158..177Q/abstract)
+<br>Quinn, S. N., Becker, J. C., Rodriguez, J. E., **Hadden, S.**, et. al.; AJ, 158:177.
+
+**2018**
+
+ - [A Criterion for the Onset of Chaos in Systems of Two Eccentric Planets](https://ui.adsabs.harvard.edu/abs/2018AJ....156...95H/abstract)
+<br>**Hadden, S.** & Lithwick, Y.; AJ, 156:95.
+
+ - [The Secular Dynamics of TNOs and Planet Nine Interactions](https://ui.adsabs.harvard.edu/abs/2018AJ....156..263L/abstract)
+<br> Li, G., **Hadden, S.**, Payne, M. J., Holman, M. J.; AJ, 156:263.
+
+ - [Chaotic Dynamics of Trans-Neptunian Objects Perturbed by Planet Nine](https://ui.adsabs.harvard.edu/abs/2018AJ....155..249H/abstract)
+<br> **Hadden, S.**, Li, G., Payne, M. J., Holman,  M. J.; AJ, 155:249.
+
+ - [A Compact Multi-Planet System With A Significantly Misaligned Ultra Short Period Planet](https://ui.adsabs.harvard.edu/abs/2018AJ....156..245R/abstract)
+<br> Rodriguez, J. E., Becker, J. C., Eastman, J., **Hadden, S.**, et. al.; 2018, AJ, 156:5.
+
+**2017**
+
+ - [Kepler Planet Masses and Eccentricities from TTV Analysis](https://ui.adsabs.harvard.edu/abs/2017AJ....154....5H/abstract) 
+<br>**Hadden, S.** & Lithwick, Y.; AJ, 154:5.
+
+**2016**
+
+ - [Numerical and Analytical Modeling of Transit Timing Variations](https://ui.adsabs.harvard.edu/abs/2016ApJ...828...44H/abstract)
+<br>**Hadden, S.** & Lithwick, Y.; ApJ, 828:44.
+
+**2014**
+
+- [Densities and Eccentricities of 139 Kepler Planets from Transit Time Variations](https://ui.adsabs.harvard.edu/abs/2014ApJ...787...80H/abstract)
+<br>**Hadden, S.** & Lithwick, Y.; ApJ, 787:80.
+
+**2012**
+
+- [Relativistic Magnetohydrodynamics in One Dimension](https://ui.adsabs.harvard.edu/abs/2012PhRvE..85b6401L/abstract)
+<br>  Lyutikov, M. & **Hadden, S.**; Phys. Rev. E, 85:026401.
+
+Preprints & In Preparation
+--------------------------
+
+ - [Mildly Hierarchical Triple Dynamics and Applications to the Outer Solar System](https://ui.adsabs.harvard.edu/abs/2020arXiv200804335G/abstract)
+<br> Bhaskar, H.,  Li, G.,  **Hadden, S.**, et. al.;
