@@ -11,7 +11,7 @@ I apply this understanding in order to make sense of exoplanet observations such
 as transit timing and radial velocity measurements. I also work to understand the 
 role of gravitational dynamics in the long-term evolution of planetary systems.
 
-I recieved my PhD in Physics and Astronomy from Northwestern University in 2017.
+I received my PhD in Physics and Astronomy from Northwestern University in 2017.
 
 [cfa]: https://www.cfa.harvard.edu
 [me]: /assets/images/sam_hadden.jpg
