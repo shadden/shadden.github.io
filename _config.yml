@@ -21,17 +21,36 @@
 title: Sam Hadden
 email: samuel.hadden@cfa.harvard.edu
 description: >- # this means to ignore newlines until "baseurl:"
- Sam Hadden's personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  shadden
-
+accent_image: /assets/images/Kepler11.png
 # Build settings
-theme: minima
+#theme: academic
+#theme: minima
+theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9.0.5
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-avatar
+author:
+  name: Sam Hadden
+  email: samuel.hadden@cfa.harvard.edu
+  about: |
+    I am a CfA Fellow at the Harvard-Smithsonian Center for Astrophysics working on the dynamics of planetary systems.
+  picture:  /assets/images/sam_hadden.jpg
 
+menu:
+  - title: About
+    url: /about/
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
+  - title: Code
+    url: /code/
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
