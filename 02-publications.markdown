@@ -12,22 +12,26 @@ order: 3
 Refereed
 --------
 
-**2020**
- - [Mildly Hierarchical Triple Dynamics and Applications to the Outer Solar System](https://ui.adsabs.harvard.edu/abs/2020arXiv200804335G/abstract)
+**2021**
+ - [Mildly Hierarchical Triple Dynamics and Applications to the Outer Solar System](https://ui.adsabs.harvard.edu/abs/2021arXiv210104117C/abstract)
+<br> Cranmer, M.,  Tamayo, D.,  Rein, Hanno., et. al. including  **Hadden, S**; submitted 
+
+ - [Mildly Hierarchical Triple Dynamics and Applications to the Outer Solar System](https://ui.adsabs.harvard.edu/abs/2021AJ....161...48B/abstract)
 <br> Bhaskar, H.,  Li, G.,  **Hadden, S.**, et. al.; AJ, in press.
+
+**2020**
 
  - [Modeling Radial Velocity Data of Resonant Planets to Infer Migration Histories](https://ui.adsabs.harvard.edu/abs/2020AJ....160..106H/abstract)
 <br> **Hadden, S.**  & Payne, M. J.; AJ, 160, 106
 
- - [Predicting the Long-Term Stability of Compact Multiplanet Systems](https://www.pnas.org/content/117/31/18194)
+ - [Predicting the Long-Term Stability of Compact Multiplanet Systems](https://ui.adsabs.harvard.edu/abs/2020PNAS..11718194T/abstract)
 <br> Tamayo, D., Cranmer, M., **Hadden, S.**, et. al.; PNAS, 117, 18194
-
-**2019**
 
  - [Are long-term *N*-body simulations reliable?](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp..426H/abstract)
 <br>
 Hernandez D. M., **Hadden, S.**, Makino, J.; MNRAS, 493, 1913
 
+**2019**
  - [An Integrable Model for the Dynamics of Planetary Mean-motion Resonances](https://ui.adsabs.harvard.edu/abs/2019AJ....158..238H/abstract)
 <br>
 **Hadden, S.**; AJ, 158:238
