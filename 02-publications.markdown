@@ -13,7 +13,7 @@ Refereed
 --------
 
 **2021**
- - [Mildly Hierarchical Triple Dynamics and Applications to the Outer Solar System](https://ui.adsabs.harvard.edu/abs/2021arXiv210104117C/abstract)
+ - [A Bayesian neural network predicts the dissolution of compact planetary systems](https://ui.adsabs.harvard.edu/abs/2021arXiv210104117C/abstract)
 <br> Cranmer, M.,  Tamayo, D.,  Rein, Hanno., et. al. including  **Hadden, S**; submitted 
 
  - [Mildly Hierarchical Triple Dynamics and Applications to the Outer Solar System](https://ui.adsabs.harvard.edu/abs/2021AJ....161...48B/abstract)
