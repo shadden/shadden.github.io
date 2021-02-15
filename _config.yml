@@ -30,7 +30,7 @@ accent_image: /assets/images/Kepler11.png
 #theme: academic
 #theme: minima
 theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9.0.5
+remote_theme: hydecorp/hydejack@v9.1.2
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -41,6 +41,8 @@ author:
   about: |
     I am a CfA Fellow at the Harvard-Smithsonian Center for Astrophysics working on the dynamics of planetary systems.
   picture:  /assets/images/sam_hadden.jpg
+  social:
+    github: shadden
 
 menu:
   - title: About

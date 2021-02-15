@@ -14,6 +14,8 @@ gem "academic"
 gem "jekyll-theme-hydejack"
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem "jekyll-avatar"
+#gem "github-pages", group: :jekyll_plugins
+#gem "jekyll-include-cache", group: :jekyll_plugins
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 #gem "github-pages","~> 3.9.0", group: :jekyll_plugins
