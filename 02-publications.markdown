@@ -13,11 +13,15 @@ Refereed
 --------
 
 **2021**
+
+ - [How Close are Compact Multi-Planet Systems to the Stability Limit?](https://ui.adsabs.harvard.edu/abs/2021arXiv210506338Y/abstract)
+<br> Yee, S. W.;  Tamayo, D.;  **Hadden, S.**;  Winn, J. N.; AJ, in press.
+
  - [A Bayesian neural network predicts the dissolution of compact planetary systems](https://ui.adsabs.harvard.edu/abs/2021arXiv210104117C/abstract)
-<br> Cranmer, M.,  Tamayo, D.,  Rein, Hanno., et. al. including  **Hadden, S**; submitted 
+<br> Cranmer, M.,  Tamayo, D.,  Rein, Hanno., et. al. including  **Hadden, S**; submitted
 
  - [Mildly Hierarchical Triple Dynamics and Applications to the Outer Solar System](https://ui.adsabs.harvard.edu/abs/2021AJ....161...48B/abstract)
-<br> Bhaskar, H.,  Li, G.,  **Hadden, S.**, et. al.; AJ, in press.
+<br> Bhaskar, H.,  Li, G.,  **Hadden, S.**, et. al.; AJ, 161, 48
 
 **2020**
 
