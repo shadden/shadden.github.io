@@ -14,8 +14,11 @@ Refereed
 
 **2021**
 
+ - [Rare Event Sampling Improves Mercury Instability Statistics](https://ui.adsabs.harvard.edu/abs/2021arXiv210609091A/abstract)
+<br> Abbot, Dorian S.,  Webber, Robert J.,  **Hadden, Sam**,  Weare, Jonathan; submitted.
+
  - [How Close are Compact Multi-Planet Systems to the Stability Limit?](https://ui.adsabs.harvard.edu/abs/2021arXiv210506338Y/abstract)
-<br> Yee, S. W.;  Tamayo, D.;  **Hadden, S.**;  Winn, J. N.; AJ, in press.
+<br> Yee, S. W.,  Tamayo, D.,  **Hadden, S.**,  Winn, J. N.; AJ, in press.
 
  - [A Bayesian neural network predicts the dissolution of compact planetary systems](https://ui.adsabs.harvard.edu/abs/2021arXiv210104117C/abstract)
 <br> Cranmer, M.,  Tamayo, D.,  Rein, Hanno., et. al. including  **Hadden, S**; submitted
