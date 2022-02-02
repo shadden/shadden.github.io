@@ -13,7 +13,7 @@ Refereed
 --------
 **2022**
 
- - [The Criterion for Chaos in Three-Planet Systems](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.4302H/abstract)
+ - [Stepsize errors in the N-body problem: discerning Mercury's true possible long-term orbits](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.4302H/abstract)
 <br> Hernandez, D. M., Zeebe, R. E.,  **Hadden, S.**; MNRAS, 510, 4302
 
  - [The Criterion for Chaos in Three-Planet Systems](https://ui.adsabs.harvard.edu/abs/2021arXiv211002956R/abstract)
