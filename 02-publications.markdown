@@ -11,14 +11,18 @@ order: 3
 
 Refereed
 --------
+**2022**
 
-**2021**
+ - [The Criterion for Chaos in Three-Planet Systems](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.4302H/abstract)
+<br> Hernandez, D. M., Zeebe, R. E.,  **Hadden, S.**; MNRAS, 510, 4302
 
  - [The Criterion for Chaos in Three-Planet Systems](https://ui.adsabs.harvard.edu/abs/2021arXiv211002956R/abstract)
 <br> *Rath, J.*,  **Hadden, S.**,  Lithwick, Y.; submitted.
 
+**2021**
+
  - [Rare Event Sampling Improves Mercury Instability Statistics](https://ui.adsabs.harvard.edu/abs/2021arXiv210609091A/abstract)
-<br> Abbot, D. S.,  Webber, R. J.,  **Hadden, S.**,  Weare, J.; ApJ, in press.
+<br> Abbot, D. S.,  Webber, R. J.,  **Hadden, S.**, et. al.; ApJ, 923, 236
 
  - [How Close are Compact Multi-Planet Systems to the Stability Limit?](https://ui.adsabs.harvard.edu/abs/2021arXiv210506338Y/abstract)
 <br> Yee, S. W.,  Tamayo, D.,  **Hadden, S.**,  Winn, J. N.; AJ, 162, 55
