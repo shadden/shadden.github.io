@@ -4,4 +4,4 @@ title:  Welcome
 cover:  true #!! Add this
 ---
 
-Welcome the Sam Hadden's personal homepage.
+Welcome the Sam Hadden's homepage.
