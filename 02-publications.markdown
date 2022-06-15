@@ -13,8 +13,11 @@ Refereed
 --------
 **2022**
 
- - [The Effects of Disk Induced Apsidal Precession on Planets Captured into Mean Motion Resonance](https://ui.adsabs.harvard.edu/abs/2022arXiv220412042M/abstract)
-<br> *Murray, Z*,  **Hadden, S.**,  Holman, M. J., AJ, in press
+ - [celmech: A Python package for celestial mechanics](https://ui.adsabs.harvard.edu/abs/2022arXiv220510385H/abstract)
+<br> **Hadden, S.**, Tamayo, D., submitted
+
+ - [The Effects of Disk Induced Apsidal Precession on Planets Captured into Mean Motion Resonance](https://ui.adsabs.harvard.edu/abs/2022ApJ...931...66M/abstract)
+<br> *Murray, Z*,  **Hadden, S.**,  Holman, M. J., ApJ, 931, 66 
 
  - [Stepsize errors in the N-body problem: discerning Mercury's true possible long-term orbits](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.4302H/abstract)
 <br> Hernandez, D. M., Zeebe, R. E.,  **Hadden, S.**; MNRAS, 510, 4302
