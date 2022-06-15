@@ -29,7 +29,7 @@ accent_image: /assets/images/Kepler11.png
 # Build settings
 #theme: academic
 #theme: minima
-theme: jekyll-theme-hydejack
+#theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9.1.2
 plugins:
   - jekyll-feed
