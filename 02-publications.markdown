@@ -14,7 +14,7 @@ Refereed
 **2022**
 
  - [celmech: A Python package for celestial mechanics](https://ui.adsabs.harvard.edu/abs/2022arXiv220510385H/abstract)
-<br> **Hadden, S.**, Tamayo, D., submitted
+<br> **Hadden, S.**, Tamayo, D., in press.
 
  - [The Effects of Disk Induced Apsidal Precession on Planets Captured into Mean Motion Resonance](https://ui.adsabs.harvard.edu/abs/2022ApJ...931...66M/abstract)
 <br> *Murray, Z*,  **Hadden, S.**,  Holman, M. J., ApJ, 931, 66 
