@@ -23,7 +23,7 @@ Refereed
 <br> Hernandez, D. M., Zeebe, R. E.,  **Hadden, S.**; MNRAS, 510, 4302
 
  - [The Criterion for Chaos in Three-Planet Systems](https://ui.adsabs.harvard.edu/abs/2021arXiv211002956R/abstract)
-<br> *Rath, J.*,  **Hadden, S.**,  Lithwick, Y., AJ, in press
+<br> *Rath, J.*,  **Hadden, S.**,  Lithwick, Y., AJ, 932, 61
 
 **2021**
 
