@@ -37,9 +37,9 @@ plugins:
   - jekyll-avatar
 author:
   name: Sam Hadden
-  email: samuel.hadden@cfa.harvard.edu
+  email: hadden@cita.utoronto.ca
   about: |
-    I am a CfA Fellow at the Harvard-Smithsonian Center for Astrophysics working on the dynamics of planetary systems.
+    I am a postdoctoral fellow at CITA working on dynamics and planetary systems.
   picture:  /assets/images/sam_hadden.jpg
   social:
     github: shadden
