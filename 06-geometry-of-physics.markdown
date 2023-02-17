@@ -17,12 +17,12 @@ Spring 2022
 - **February 17:** Chapter 1, Section 1.1-1.3
 	- [What is a manifold?][manifold]
 	- Problem assignments:
-		- 1.1(1): Leo Alcorn, Ioana Zelko
+		- 1.1(1): Ioana Zelko
 		- 1.1(2): Janosz Dewberry, Rufat von Dost
-		- 1.1(3): Leo Alcorn, Taylor Kutra
+		- 1.1(3): Taylor Kutra
 		- 1.1(4): Taha Aboshanab, Ioana Zelko
 		- 1.2(1): Rimpei Chiba, Zack Li, Julian Meunier
-		- 1.2(2): Sam Hadden, Zack Li, Aryanna Schiebelbein
+		- 1.2(2): Sam Hadden, Zack Li
 		- 1.2(3): Sam Hadden, Umit Uzunboy
 		- 1.3(1): Janosz Dewberry, Bryan Owens
 		- 1.3(2): Rimpei Chiba
