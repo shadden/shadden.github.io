@@ -37,5 +37,15 @@ Spring 2022
 		- 2.3(1): Sam Hadden, Rimpei Chiba, Kelvin Leong
 		- 2.3(2): Umit Uzunboy
 
+- **March 3:** Chapter 2, Section 2.4-2.6
+	- Problem assignments:
+		- 2.4(1): Rimpei Chiba
+		- 2.4(2): Janosz Dewberry
+		- 2.4(3): Sam Hadden
+		- 2.4(4): Sam Hadden
+		- 2.5(1): Rimpei Chiba
+		- 2.5(2): Sam Hadden
+		- 2.5(3): Rimpei Chiba
+		- 2.6(1): Janosz Dewberry
 [geomBook]: https://www.cambridge.org/core/books/geometry-of-physics/94894F70DB22055BD7BC2B84C135ABAF
 [manifold]: https://www.youtube.com/watch?v=zIjBArHTPZ4&ab_channel=GeometryForPhysicists
