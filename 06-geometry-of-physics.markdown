@@ -48,5 +48,15 @@ Spring 2022
 		- 2.5(3): Rimpei Chiba
 		- 2.6(1): Janosz Dewberry
 
+- **March 10:** Chapter 2, Section 2.6-2.8
+	- Problem assignments:
+		- 2.6(1): Rimpei Chiba
+		- 2.7(1): Sam Hadden
+		- 2.7(2): Zack Li
+		- 2.8(1): Sam Hadden
+		- 2.8(2): Zack Li
+		- 2.8(3): Rimpei Chiba
+
+
 [geomBook]: https://www.cambridge.org/core/books/geometry-of-physics/94894F70DB22055BD7BC2B84C135ABAF
 [manifold]: https://www.youtube.com/watch?v=zIjBArHTPZ4&ab_channel=GeometryForPhysicists
