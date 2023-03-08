@@ -11,6 +11,14 @@ order: 3
 
 Refereed
 --------
+**2023**
+
+- [Self-Consistent Spin, Tidal and Dynamical Equations of Motion in the REBOUNDx Framework](https://ui.adsabs.harvard.edu/abs/2023arXiv230300006L/abstract)
+<br>Lu, T., Rein, H., et. al. including **Hadden, S.**, AJ, in press 
+
+- [Simple Physics and Integrators Accurately Reproduce Mercury Instability Statistics](https://ui.adsabs.harvard.edu/abs/2023ApJ...944..190A/abstract)
+<br>Abbot, D., Hernandez, D. M., **Hadden, S.**, et. al., ApJ, 944, 190 
+
 **2022**
 
  - [celmech: A Python package for celestial mechanics](https://ui.adsabs.harvard.edu/abs/2022arXiv220510385H/abstract)
