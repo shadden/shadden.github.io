@@ -11,6 +11,15 @@ Geometry of Physics Reading Group
 
 The Geometry of Physics reading group meets on Fridays at 10:30am in the CITA Lounge to discuss [The Geometry of Physics][geomBook] by Theodore Frankel.
 
+Miscellaneous
+-------------
+
+- [Fluid Dynamics in Curvilinear Coordinates without Fictitious Forces](https://ui.adsabs.harvard.edu/abs/2021Fluid...6..366C/abstract)
+
+- [An introduction to the relativistic kinetic theory on curved spacetimes](https://link.springer.com/article/10.1007/s10714-022-02908-5)
+
+-[Chaos Near Resonance](https://link.springer.com/book/10.1007/978-1-4612-1508-0)
+
 Spring 2022
 -----------
 
@@ -69,6 +78,7 @@ Spring 2022
 		- 3.1(3): Rimpei Chiba
 		- 3.3(1): Rimpei Chiba
 		- 3.3(2): Janosz Dewberry
+
 
 [geomBook]: https://www.cambridge.org/core/books/geometry-of-physics/94894F70DB22055BD7BC2B84C135ABAF
 [manifold]: https://www.youtube.com/watch?v=zIjBArHTPZ4&ab_channel=GeometryForPhysicists
