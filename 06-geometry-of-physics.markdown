@@ -18,7 +18,9 @@ Miscellaneous
 
 - [An introduction to the relativistic kinetic theory on curved spacetimes](https://link.springer.com/article/10.1007/s10714-022-02908-5)
 
--[Chaos Near Resonance](https://link.springer.com/book/10.1007/978-1-4612-1508-0)
+- [Chaos Near Resonance](https://link.springer.com/book/10.1007/978-1-4612-1508-0)
+
+ - [Partial barriers to chaotic transport in 4D symplectic maps](https://ui.adsabs.harvard.edu/abs/2023Chaos..33a3125F/abstract)
 
 Spring 2022
 -----------
