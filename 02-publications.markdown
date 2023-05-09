@@ -13,8 +13,11 @@ Refereed
 --------
 **2023**
 
+- [Intra-system uniformity: a natural outcome of dynamical sculpting](https://ui.adsabs.harvard.edu/abs/2023arXiv230402634L/abstract)
+<br>*Lammers, C.*, Murray, N., **Hadden, S.**, submitted
+
 - [Self-Consistent Spin, Tidal and Dynamical Equations of Motion in the REBOUNDx Framework](https://ui.adsabs.harvard.edu/abs/2023arXiv230300006L/abstract)
-<br>Lu, T., Rein, H., et. al. including **Hadden, S.**, AJ, in press 
+<br>Lu, T., Rein, H., et. al. including **Hadden, S.**, AJ, 948, 41
 
 - [Simple Physics and Integrators Accurately Reproduce Mercury Instability Statistics](https://ui.adsabs.harvard.edu/abs/2023ApJ...944..190A/abstract)
 <br>Abbot, D., Hernandez, D. M., **Hadden, S.**, et. al., ApJ, 944, 190 
