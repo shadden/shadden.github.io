@@ -13,11 +13,15 @@ Refereed
 --------
 **2023**
 
+- [Scattered Disk Dynamics: The Mapping Approach](https://arxiv.org/abs/2309.00684)
+<br>**Hadden, S.** & Tremaine, S., submitted
+
+
 - [Mercury's chaotic secular evolution as a subdiffusive process](https://arxiv.org/abs/2306.11870)
 <br>Abbot, D., Webber, R. J., et. al. including  **Hadden, S.**, submitted
 
 - [Intra-system uniformity: a natural outcome of dynamical sculpting](https://ui.adsabs.harvard.edu/abs/2023arXiv230402634L/abstract)
-<br>*Lammers, C.*, **Hadden, S.**, Murray, N., submitted
+<br>*Lammers, C.*, **Hadden, S.**, Murray, N., MNRAS, 525, 66
 
 - [Self-Consistent Spin, Tidal and Dynamical Equations of Motion in the REBOUNDx Framework](https://ui.adsabs.harvard.edu/abs/2023arXiv230300006L/abstract)
 <br>Lu, T., Rein, H., et. al. including **Hadden, S.**, AJ, 948, 41
