@@ -2,7 +2,7 @@
 layout: page
 title: Geometry of Physics Reading Group
 permalink: /geometry_of_physics/
-order: 4
+exclude: true
 ---
 
 Geometry of Physics Reading Group
