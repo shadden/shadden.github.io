@@ -16,7 +16,6 @@ Refereed
 - [Scattered Disk Dynamics: The Mapping Approach](https://arxiv.org/abs/2309.00684)
 <br>**Hadden, S.** & Tremaine, S., submitted
 
-
 - [Mercury's chaotic secular evolution as a subdiffusive process](https://arxiv.org/abs/2306.11870)
 <br>Abbot, D., Webber, R. J., et. al. including  **Hadden, S.**, submitted
 
