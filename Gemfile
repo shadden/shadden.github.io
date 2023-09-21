@@ -11,9 +11,11 @@ source "https://rubygems.org"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5"
 gem "academic"
-gem "jekyll-theme-hydejack"
-gem "jekyll-include-cache", group: :jekyll_plugins
-gem "jekyll-avatar"
+gem "fenton-jekyll-boilerplate", "~> 0.0.15"
+gem "fenton-jekyll-plugin", "~> 0.0.13"
+# gem "jekyll-theme-hydejack"
+# gem "jekyll-include-cache", group: :jekyll_plugins
+# gem "jekyll-avatar"
 #gem "github-pages", group: :jekyll_plugins
 #gem "jekyll-include-cache", group: :jekyll_plugins
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -33,6 +35,4 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
-
-
 gem "webrick", "~> 1.7"
