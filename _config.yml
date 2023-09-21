@@ -35,7 +35,6 @@ plugins:
   - fenton-jekyll-plugin
 
 header_pages:
-  - 00-about.markdown
   - 01-research.markdown
   - 02-publications.markdown
   - 04-code.markdown
