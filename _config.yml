@@ -37,6 +37,7 @@ plugins:
 header_pages:
   - 01-research.markdown
   - 02-publications.markdown
+  - 03-talks.markdown
   - 04-code.markdown
 # Exclude from processing.
 # The following items will not be processed, by default.
