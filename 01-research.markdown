@@ -5,9 +5,8 @@ permalink: /research/
 order: 2
 ---
 
-My research focuses on understanding gravitational *N*-body dynamics and its astrophysical consequences. I have mostly focused planetary systems and have explored
-This includes a range of topics, from measuring planet masses and orbits via dynamical
-modeling to understanding the long-term evolution of planets' orbits.
+My research focuses on understanding gravitational *N*-body dynamics and its astrophysical consequences.
+I have mostly focused planetary systems and have explored a range of topics, from measuring planet masses and orbits via dynamical modeling to understanding the long-term evolution of planets' orbits.
 My past research topics have included: 
 
   - [Scattered Disk Dynamics](#scattered-disk-dynamics)
