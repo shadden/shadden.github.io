@@ -1,0 +1,11 @@
+---
+layout: page
+title: CV
+permalink: /cv/
+order: 4
+---
+
+- A PDF version of my CV is available [here][CV]
+- The bleeding-edge version can be found [here](https://www.overleaf.com/read/gzgbhjfszjhr)
+
+[CV]: /assets/CV.pdf
