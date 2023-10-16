@@ -16,6 +16,9 @@ The number of known exoplanets has increased exponentially over the past couple 
 
 ![nbodyMoores]
 
+Data on exoplanet discoveries taken from the [Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu). Data on CPU clock rates from [Karl Rupp's blog](https://www.karlrupp.net/2018/02/42-years-of-microprocessor-trend-data/).
+
+
 
 
 
@@ -24,7 +27,7 @@ Notable *N*-body Simulations
 
 - [**Eckert, Brouwer, and Clemenct (1952)**](EBC1952)
   - Outer solar system *N*-body integration spanning years 1653--2060
-  - Run on IMB's SSEC
+  - Simulation run on IMB's SSEC for approx. 120 hours of compute time (thanks to [Allan Olley](http://individual.utoronto.ca/fofound/) for providing runtime estimate) 
 
 - [**Cohen and Hubbard (1965)**](CH1965)
   - 120 kyr integration of outer solar system
