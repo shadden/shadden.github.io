@@ -81,6 +81,7 @@ Notable *N*-body Simulations
     - 20 Gyr integration of full solar system.
     - 2nd-order symplectic Wisdom-Holman mapping with *dt*=8 days
     - Applied 'splitting' method to demonstrate potential for Mercury instability
+    - Run for approximately 6 months of CPU time (Batygin, private comm.)
 
 - [**LG09:** Laskar and Gastineau (2009)][LG2009]
     - 5 Gyr integrations of entire solar sytem (ensemble of 2,501 integrations)
