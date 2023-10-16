@@ -84,6 +84,11 @@ Notable *N*-body Simulations
     - Average run time of 2500 hours per 5 Gyr integration Xeon 5472 CPU cores 
     - First direct *N*-body demonstrations of potential forMercury orbital instabilities
 
+- [**Abbot et. al. (2023)**](A+2023)
+    - Two 2,750-member ensembles of 5 Gyr simulations of entire solar system
+    - Run with Wisdom-Holman algoirthm using *dt*=3.16 days
+    - 2.5 million CPU-hours for entire set of simulations
+
 [EBC1952]: https://ui.adsabs.harvard.edu/abs/1951USNAO..12....1E/abstract
 [CH1965]: https://ui.adsabs.harvard.edu/abs/1965AJ.....70...10C/abstract
 [CHO1973]: https://ui.adsabs.harvard.edu/abs/1973CeMec...7..438C/abstract
@@ -96,3 +101,4 @@ Notable *N*-body Simulations
 [LG2009]: https://ui.adsabs.harvard.edu/abs/2009Natur.459..817L/abstract
 [SABA4]: https://ui.adsabs.harvard.edu/abs/2001CeMDA..80...39L/abstract
 [nbodyMoores]: /assets/images/Nbody-Moores-Law.png
+[A+2023]: https://ui.adsabs.harvard.edu/abs/2023ApJ...944..190A/abstract
