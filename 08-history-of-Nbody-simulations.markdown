@@ -5,7 +5,19 @@ permalink: /nbody_history/
 order: 8
 ---
 
-This page provides a brief history of planetary *N*-body simulations.
+On this page, I have attempted to compile a history of significant planetary *N*-body simulations. Historically, these simulations have focused on the solar system. 
+
+
+
+Moore's Law, N-body simulations, and exoplanets
+-----------------------------------------------
+
+The number of known exoplanets has increased exponentially over the past couple decades at roughly the same time the growth in the clock rate of CPU cores has leveled off. N-body integrations are an essential part of exoplanet science-- from fitting orbital parameters to observational data to simulating planet formation and evolution. The trend  shown in the accompanying plot suggests that computational demands are quickly outstripping supply and new methods for handling the *N*-body dynamics of planetary systems are called for.
+
+![nbodyMoores]
+
+
+
 
 Notable *N*-body Simulations
 ----------------------------
@@ -80,3 +92,4 @@ Notable *N*-body Simulations
 [QDT1991]: https://ui.adsabs.harvard.edu/abs/1991AJ....101.2287Q/abstract
 [LG2009]: https://ui.adsabs.harvard.edu/abs/2009Natur.459..817L/abstract
 [SABA4]: https://ui.adsabs.harvard.edu/abs/2001CeMDA..80...39L/abstract
+[nbodyMoores]: /assets/images/Nbody-Moores-Law.png
