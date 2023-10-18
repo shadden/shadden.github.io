@@ -10,8 +10,17 @@ I am interested explaining complex astronomical phenomena in terms of their unde
 
 ![me]
 
+Miscellania
+-----------
+
+ - I've gathered some info on the history of *N*-body simulations [here](nbody_history).
+ - The page for CITA's Geometry of Physics reading group is [here](geometry_of_physics).
+ - Here's a Mathematica [notebook](ekl) on the eccentric Kozai-Lidov mechanism.
+
+
 [research]: /research/
 [cita]: https://www.cita.utoronto.ca
 [cfa]: https://www.cfa.harvard.edu
 [northwestern]: https://ciera.northwestern.edu
 [me]: /assets/images/image0.jpeg
+[ekl]: /assets/mathematica/EccentricKozaiLidov_LithwickNaoz2011.nb

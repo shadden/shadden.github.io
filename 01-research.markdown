@@ -13,7 +13,7 @@ My past research topics have included:
   - [Intra-system uniformity](#intra-system-uniformity)
   - [Numerical Methods](#numerical-methods)
   - [Migration and Resonance Capture](#migration-and-resonance-capture)
-  - [Instability of Mercury](#instability-of-Mercury)
+  - [Instability of Mercury](#instability-of-mercury)
   - [Dynamical chaos](#dynamical-chaos)
   - [Mean motion resonance](#mean-motion-resonances)
   - [Planet 9](#dynamics-of-planet-9)
@@ -45,6 +45,19 @@ Migration and Resonance Capture
 
 Planets residing in [mean motion resonances](#migration-and-resonance-capture) are generally assumed to reach these orbital configurations as a result of orbital migration and eccentricity damping experienced during the protoplanetary disk phase of a planetary system's life. In [Hadden & Payne (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....160..106H/abstract) I showed how the dynamical state of resonant planets measured from RV fits could be used to constrain the migration histories that led to MMR capture.
 
+Instability of Mercury
+----------------------
+
+One of the most significant results of modern celestial mechanics is the discovery that Mercury's orbit is chaotic and potentially unstable. The fact of that the soalr system is chaotic was first established by some [landmark *N*-body simulations starting](/nbody_history) starting in the late 80s/early 90s. Eventually, it was established that Mercury has a ~1% probability of colliding with the Sun or another terrestrial planet in the next ~5Gyr, approximately the remainder of the Sun's main sequence lifetime. I've worked with collaborators on a series of papers that explore just how early Mercury can be destabilized and how its probability of instability evolves with time (
+  [Abbot et. al. 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..236A/abstract),
+  [2023a](https://ui.adsabs.harvard.edu/abs/2023ApJ...944..190A/abstract),
+  [2023b](https://arxiv.org/abs/2306.11870),
+  [Hernandez et. al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.4302H/abstract))
+
+Dynamical Chaos
+---------------
+
+In [Hadden & Lithwick (2018)](https://ui.adsabs.harvard.edu/abs/2018AJ....156...95H/abstract) I derived an anlytic criterion for the onset of chaos in two-planet systems. This criterion is applicable to the case closely-spaced planets with non-zero eccentricities, the dynamical regime occupied most observed exoplanetary systems.
 
 Mean Motion Resonances
 ----------------------

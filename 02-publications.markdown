@@ -44,7 +44,7 @@ Refereed
 
 **2021**
 
- - [Rare Event Sampling Improves Mercury Instability Statistics](https://ui.adsabs.harvard.edu/abs/2021arXiv210609091A/abstract)
+ - [Rare Event Sampling Improves Mercury Instability Statistics](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..236A/abstract)
 <br> Abbot, D. S.,  Webber, R. J.,  **Hadden, S.**, et. al.; ApJ, 923, 236
 
  - [How Close are Compact Multi-Planet Systems to the Stability Limit?](https://ui.adsabs.harvard.edu/abs/2021arXiv210506338Y/abstract)
