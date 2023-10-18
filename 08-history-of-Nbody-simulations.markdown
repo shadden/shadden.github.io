@@ -40,6 +40,10 @@ Notable *N*-body Simulations
   - Run on an IBM 7030 
   - ORIGINAL REF??? (Linked paper only shows plots)
 
+- [**TRS-80:** Roger W. Sinnot]
+  - A reproduction of EBC52 calculation carried out on a Radio Shack TRS-80
+  - Reported in a [Sky and Telescope article][SkyAndTelescope]
+
 - [**KN84:** Kinoshita and Nakai (1984)][KN1984]
     - 5 Myr integration of outer solar system
     - Störmer multi-step method with *dt*=40 day step size
@@ -113,3 +117,4 @@ Notable *N*-body Simulations
 [nbodyMoores]: /assets/images/Nbody-Moores-Law.png
 [A+2023]: https://ui.adsabs.harvard.edu/abs/2023ApJ...944..190A/abstract
 [JRT2003]: https://arxiv.org/abs/2307.05683
+[SkyAndTelescope]: /assets/SkyNTeleTRS80vSSEC.pdf
