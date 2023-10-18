@@ -42,7 +42,7 @@ Notable *N*-body Simulations
 
 - [**TRS-80:** Roger W. Sinnot]
   - A reproduction of EBC52 calculation carried out on a Radio Shack TRS-80
-  - Reported in a [Sky and Telescope article][SkyAndTelescope]
+  - Reported in a [Sky and Telescope article][SkyAndTelescope] (thanks to [Allan Olley](http://individual.utoronto.ca/fofound/) for providing this reference)
 
 - [**KN84:** Kinoshita and Nakai (1984)][KN1984]
     - 5 Myr integration of outer solar system
