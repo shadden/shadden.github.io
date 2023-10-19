@@ -16,7 +16,10 @@ The number of known exoplanets has increased exponentially over the past couple 
 
 ![nbodyMoores]
 
-Data on exoplanet discoveries taken from the [Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu). Data on CPU clock rates from [Karl Rupp's blog](https://www.karlrupp.net/2018/02/42-years-of-microprocessor-trend-data/).
+Data on exoplanet discoveries taken from the [Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu).
+Data on CPU clock rates from [Karl Rupp's blog](https://www.karlrupp.net/2018/02/42-years-of-microprocessor-trend-data/).
+Simulation efficiencies have are based on reported integration details and multiplied by (88 d./*P_min*)(*N*/8)^2 where *P_min* is the minumum orbital period among bodies included, Mercury's orbital period is 88 days, and *N* is the number of bodies. 
+In this way, I have attempted to account for variations between simulations in the bodies included (e.g., outer versus full solar system). 
 
 
 
@@ -43,6 +46,10 @@ Notable *N*-body Simulations
 - [**TRS-80:** Roger W. Sinnot]
   - A reproduction of EBC52 calculation carried out on a Radio Shack TRS-80
   - Reported in a [Sky and Telescope article][SkyAndTelescope] (thanks to [Allan Olley](http://individual.utoronto.ca/fofound/) for providing this reference)
+
+- [**NSW83:** Newhall, Standish, and Williams (1983)][NSW1983]
+  - Integration of the entire solar system, as well as the moon, from 1411 BC to 3002 AD
+  - 9 days of computer time to evaluate 6 million steps on a [Univac 1100/81][univac]
 
 - [**KN84:** Kinoshita and Nakai (1984)][KN1984]
     - 5 Myr integration of outer solar system
@@ -105,6 +112,7 @@ Notable *N*-body Simulations
 [EBC1952]: https://ui.adsabs.harvard.edu/abs/1951USNAO..12....1E/abstract
 [CH1965]: https://ui.adsabs.harvard.edu/abs/1965AJ.....70...10C/abstract
 [CHO1973]: https://ui.adsabs.harvard.edu/abs/1973CeMec...7..438C/abstract
+[NSW1983]: https://ui.adsabs.harvard.edu/abs/1983A%26A...125..150N/abstract
 [KN1984]: https://ui.adsabs.harvard.edu/abs/1984CeMec..34..203K/abstract
 [LONGSTOP1988]: https://ui.adsabs.harvard.edu/abs/1988VA.....32...95R/abstract
 [DigOrr1986]: https://ui.adsabs.harvard.edu/abs/1986AJ.....92..176A/abstract
@@ -118,3 +126,4 @@ Notable *N*-body Simulations
 [A+2023]: https://ui.adsabs.harvard.edu/abs/2023ApJ...944..190A/abstract
 [JRT2003]: https://arxiv.org/abs/2307.05683
 [SkyAndTelescope]: /assets/SkyNTeleTRS80vSSEC.pdf
+[univac]: http://bitsavers.trailing-edge.com/pdf/univac/1100/datapro/70C-877-11_7812_UNIVAC_1100.pdf
