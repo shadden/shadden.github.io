@@ -13,6 +13,9 @@ Refereed
 --------
 **2023**
 
+- [Masses, Revised Radii, and a Third Planet Candidate in the "Inverted" Planetary System Around TOI-1266](https://arxiv.org/abs/2310.13496)
+<br>Cloutier, R., Greklek-McKeon, M., Wurmser, S., et al. including  **Hadden, S.**, submitted
+
 - [Scattered Disk Dynamics: The Mapping Approach](https://arxiv.org/abs/2309.00684)
 <br>**Hadden, S.** & Tremaine, S., submitted
 
