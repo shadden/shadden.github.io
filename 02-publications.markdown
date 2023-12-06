@@ -11,13 +11,15 @@ order: 3
 
 Refereed
 --------
+**2024**
+
+- [Scattered Disc Dynamics: The Mapping Approach](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.3054H/abstract)
+<br>**Hadden, S.** & Tremaine, S., MNRAS, 527, 2
+
 **2023**
 
-- [Masses, Revised Radii, and a Third Planet Candidate in the "Inverted" Planetary System Around TOI-1266](https://arxiv.org/abs/2310.13496)
-<br>Cloutier, R., Greklek-McKeon, M., Wurmser, S., et al. including  **Hadden, S.**, submitted
-
-- [Scattered Disk Dynamics: The Mapping Approach](https://arxiv.org/abs/2309.00684)
-<br>**Hadden, S.** & Tremaine, S., submitted
+- [Masses, Revised Radii, and a Third Planet Candidate in the "Inverted" Planetary System Around TOI-1266](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.3309C/abstract)
+<br>Cloutier, R., Greklek-McKeon, M., Wurmser, S., et al. including  **Hadden, S.**, MNRAS 
 
 - [Mercury's chaotic secular evolution as a subdiffusive process](https://arxiv.org/abs/2306.11870)
 <br>Abbot, D., Webber, R. J., et. al. including  **Hadden, S.**, submitted
