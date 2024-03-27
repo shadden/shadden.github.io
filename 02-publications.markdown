@@ -13,6 +13,9 @@ Refereed
 --------
 **2024**
 
+- [The instability mechanism of compact multiplanet systems](https://arxiv.org/abs/2403.17928)
+<br>*Lammers, C.*, **Hadden, S.**, Murray, N., submitted.
+
 - [Scattered Disc Dynamics: The Mapping Approach](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.3054H/abstract)
 <br>**Hadden, S.** & Tremaine, S., MNRAS, 527, 2
 
