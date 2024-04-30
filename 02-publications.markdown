@@ -13,6 +13,9 @@ Refereed
 --------
 **2024**
 
+- [Action-Angle Variables for Axisymmetric Potentials via Birkhoff Normalization](https://arxiv.org/abs/2404.16941)
+<br>**Hadden, S.**, submitted.
+
 - [The instability mechanism of compact multiplanet systems](https://arxiv.org/abs/2403.17928)
 <br>*Lammers, C.*, **Hadden, S.**, Murray, N., submitted.
 
