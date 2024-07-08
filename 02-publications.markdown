@@ -14,10 +14,10 @@ Refereed
 **2024**
 
 - [Action-Angle Variables for Axisymmetric Potentials via Birkhoff Normalization](https://arxiv.org/abs/2404.16941)
-<br>**Hadden, S.**, submitted.
+<br>**Hadden, S.**, in press.
 
 - [The instability mechanism of compact multiplanet systems](https://arxiv.org/abs/2403.17928)
-<br>*Lammers, C.*, **Hadden, S.**, Murray, N., submitted.
+<br>*Lammers, C.*, **Hadden, S.**, Murray, N., in press.
 
 - [Scattered Disc Dynamics: The Mapping Approach](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.3054H/abstract)
 <br>**Hadden, S.** & Tremaine, S., MNRAS, 527, 2
