@@ -13,7 +13,7 @@ Refereed
 --------
 **2024**
 - [Accelerating Giant Impact Simulations with Machine Learning](https://arxiv.org/abs/2408.08873)
- Lammers, C., Cranmer, M., **Hadden, S.**, et al., submitted
+<br>Lammers, C., Cranmer, M., **Hadden, S.**, et al., submitted
 
 - [Action-Angle Variables for Axisymmetric Potentials via Birkhoff Normalization](https://arxiv.org/abs/2404.16941)
 <br>**Hadden, S.**, in press.
