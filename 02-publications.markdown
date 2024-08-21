@@ -12,6 +12,8 @@ order: 3
 Refereed
 --------
 **2024**
+- [Accelerating Giant Impact Simulations with Machine Learning](https://arxiv.org/abs/2408.08873)
+ Lammers, C., Cranmer, M., **Hadden, S.**, et al., submitted
 
 - [Action-Angle Variables for Axisymmetric Potentials via Birkhoff Normalization](https://arxiv.org/abs/2404.16941)
 <br>**Hadden, S.**, in press.
@@ -34,7 +36,7 @@ Refereed
 <br>*Lammers, C.*, **Hadden, S.**, Murray, N., MNRAS, 525, 66
 
 - [Self-Consistent Spin, Tidal and Dynamical Equations of Motion in the REBOUNDx Framework](https://ui.adsabs.harvard.edu/abs/2023arXiv230300006L/abstract)
-<br>Lu, T., Rein, H., et. al. including **Hadden, S.**, AJ, 948, 41
+<br>Lu, T., Rein, H., et al. including **Hadden, S.**, AJ, 948, 41
 
 - [Simple Physics and Integrators Accurately Reproduce Mercury Instability Statistics](https://ui.adsabs.harvard.edu/abs/2023ApJ...944..190A/abstract)
 <br>Abbot, D., Hernandez, D. M., **Hadden, S.**, et. al., ApJ, 944, 190 
