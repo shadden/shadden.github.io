@@ -15,11 +15,11 @@ Refereed
 - [Accelerating Giant Impact Simulations with Machine Learning](https://arxiv.org/abs/2408.08873)
 <br>Lammers, C., Cranmer, M., **Hadden, S.**, et al., submitted
 
-- [Action-Angle Variables for Axisymmetric Potentials via Birkhoff Normalization](https://arxiv.org/abs/2404.16941)
-<br>**Hadden, S.**, in press.
+- [Action-Angle Variables for Axisymmetric Potentials via Birkhoff Normalization](https://ui.adsabs.harvard.edu/abs/2024ApJ...972...64H/abstract)
+<br>**Hadden, S.**, ApJ, 972, 64
 
-- [The instability mechanism of compact multiplanet systems](https://arxiv.org/abs/2403.17928)
-<br>*Lammers, C.*, **Hadden, S.**, Murray, N., in press.
+- [The instability mechanism of compact multiplanet systems](https://ui.adsabs.harvard.edu/abs/2024ApJ...972...53L/abstract)
+<br>*Lammers, C.*, **Hadden, S.**, Murray, N., ApJ, 972, 53
 
 - [Scattered Disc Dynamics: The Mapping Approach](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.3054H/abstract)
 <br>**Hadden, S.** & Tremaine, S., MNRAS, 527, 2
