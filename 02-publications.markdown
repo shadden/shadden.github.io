@@ -14,7 +14,7 @@ Refereed
 **2024**
 
 - [Influence of Modeling Assumptions on the Inferred Dynamical State of Resonant Systems: A Case Study of the HD 45364 System](https://arxiv.org/abs/2410.21429)
-<br>Chow, I. & **Hadden, S.**, submitted.
+<br>*Chow, I.* & **Hadden, S.**, submitted.
 
 - [A Unified, Physical Framework for Mean Motion Resonances](https://arxiv.org/abs/2410.21748)
 <br>Tamayo, D. & **Hadden, S.**, submitted.
