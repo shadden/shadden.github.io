@@ -12,6 +12,13 @@ order: 3
 Refereed
 --------
 **2024**
+
+- [nfluence of Modeling Assumptions on the Inferred Dynamical State of Resonant Systems: A Case Study of the HD 45364 System](https://arxiv.org/abs/2410.21429)
+<br>Chow, I. & **Hadden, S.**, submitted.
+
+- [A Unified, Physical Framework for Mean Motion Resonances](https://arxiv.org/abs/2410.21748)
+<br>Tamayo, D. & **Hadden, S.**, submitted.
+
 - [Accelerating Giant Impact Simulations with Machine Learning](https://arxiv.org/abs/2408.08873)
 <br>Lammers, C., Cranmer, M., **Hadden, S.**, et al., in press.
 
