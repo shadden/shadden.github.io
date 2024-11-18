@@ -13,6 +13,9 @@ Refereed
 --------
 **2024**
 
+- [Eccentricities of Close Stellar Binaries](https://arxiv.org/abs/2411.09905)
+<br>Wu, Y., **Hadden, S.**, Dewberry, J., et al., submitted.
+
 - [Influence of Modeling Assumptions on the Inferred Dynamical State of Resonant Systems: A Case Study of the HD 45364 System](https://arxiv.org/abs/2410.21429)
 <br>*Chow, I.* & **Hadden, S.**, submitted.
 
