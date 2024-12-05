@@ -34,13 +34,13 @@ Refereed
 - [Scattered Disc Dynamics: The Mapping Approach](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.3054H/abstract)
 <br>**Hadden, S.** & Tremaine, S., MNRAS, 527, 2
 
+- [Mercury's chaotic secular evolution as a subdiffusive process](https://ui.adsabs.harvard.edu/abs/2024ApJ...967..121A/abstract)
+<br>Abbot, D., Webber, R. J., et. al. including  **Hadden, S.**, ApJ, 976, 121
+
 **2023**
 
 - [Masses, Revised Radii, and a Third Planet Candidate in the "Inverted" Planetary System Around TOI-1266](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.3309C/abstract)
 <br>Cloutier, R., Greklek-McKeon, M., Wurmser, S., et al. including  **Hadden, S.**, MNRAS 
-
-- [Mercury's chaotic secular evolution as a subdiffusive process](https://arxiv.org/abs/2306.11870)
-<br>Abbot, D., Webber, R. J., et. al. including  **Hadden, S.**, submitted
 
 - [Intra-system uniformity: a natural outcome of dynamical sculpting](https://ui.adsabs.harvard.edu/abs/2023arXiv230402634L/abstract)
 <br>*Lammers, C.*, **Hadden, S.**, Murray, N., MNRAS, 525, 66
