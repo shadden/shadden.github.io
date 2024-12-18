@@ -13,6 +13,9 @@ Refereed
 --------
 **2024**
 
+- [Creating Pileups of Eccentric Planet Pairs Wide of MMRs Through Divergent Migration](https://arxiv.org/pdf/2412.12415)
+<br>Lin, J., Dudiak, I., **Hadden, S.**, & Tamayo, D., submitted.
+
 - [Eccentricities of Close Stellar Binaries](https://arxiv.org/abs/2411.09905)
 <br>Wu, Y., **Hadden, S.**, Dewberry, J., et al., submitted.
 
