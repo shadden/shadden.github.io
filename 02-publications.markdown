@@ -11,22 +11,24 @@ order: 3
 
 Refereed
 --------
+**2025**
+
+- [Eccentricities of Close Stellar Binaries](https://arxiv.org/abs/2411.09905)
+<br>Wu, Y., **Hadden, S.**, Dewberry, J., et al., ApJL, in press.
+
+- [Influence of Modeling Assumptions on the Inferred Dynamical State of Resonant Systems: A Case Study of the HD 45364 System](https://arxiv.org/abs/2410.21429)
+<br>*Chow, I.* & **Hadden, S.**, ApJ, in press.
+
 **2024**
 
 - [Creating Pileups of Eccentric Planet Pairs Wide of MMRs Through Divergent Migration](https://arxiv.org/pdf/2412.12415)
 <br>Lin, J., Dudiak, I., **Hadden, S.**, & Tamayo, D., submitted.
 
-- [Eccentricities of Close Stellar Binaries](https://arxiv.org/abs/2411.09905)
-<br>Wu, Y., **Hadden, S.**, Dewberry, J., et al., submitted.
-
-- [Influence of Modeling Assumptions on the Inferred Dynamical State of Resonant Systems: A Case Study of the HD 45364 System](https://arxiv.org/abs/2410.21429)
-<br>*Chow, I.* & **Hadden, S.**, in press.
-
 - [A Unified, Physical Framework for Mean Motion Resonances](https://arxiv.org/abs/2410.21748)
 <br>Tamayo, D. & **Hadden, S.**, submitted.
 
-- [Accelerating Giant Impact Simulations with Machine Learning](https://arxiv.org/abs/2408.08873)
-<br>Lammers, C., Cranmer, M., **Hadden, S.**, et al., in press.
+- [Accelerating Giant Impact Simulations with Machine Learning](https://ui.adsabs.harvard.edu/abs/2024ApJ...975..228L/abstract)
+<br>Lammers, C., Cranmer, M., **Hadden, S.**, et al., ApJ, 975, 228
 
 - [Action-Angle Variables for Axisymmetric Potentials via Birkhoff Normalization](https://ui.adsabs.harvard.edu/abs/2024ApJ...972...64H/abstract)
 <br>**Hadden, S.**, ApJ, 972, 64
@@ -40,15 +42,15 @@ Refereed
 - [Mercury's chaotic secular evolution as a subdiffusive process](https://ui.adsabs.harvard.edu/abs/2024ApJ...967..121A/abstract)
 <br>Abbot, D., Webber, R. J., et. al. including  **Hadden, S.**, ApJ, 976, 121
 
-**2023**
+- [Masses, Revised Radii, and a Third Planet Candidate in the "Inverted" Planetary System Around TOI-1266](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.5464C/abstract)
+<br>Cloutier, R., Greklek-McKeon, M., Wurmser, S., et al. including  **Hadden, S.**, MNRAS, 527, 3
 
-- [Masses, Revised Radii, and a Third Planet Candidate in the "Inverted" Planetary System Around TOI-1266](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.3309C/abstract)
-<br>Cloutier, R., Greklek-McKeon, M., Wurmser, S., et al. including  **Hadden, S.**, MNRAS 
+**2023**
 
 - [Intra-system uniformity: a natural outcome of dynamical sculpting](https://ui.adsabs.harvard.edu/abs/2023arXiv230402634L/abstract)
 <br>*Lammers, C.*, **Hadden, S.**, Murray, N., MNRAS, 525, 66
 
-- [Self-Consistent Spin, Tidal and Dynamical Equations of Motion in the REBOUNDx Framework](https://ui.adsabs.harvard.edu/abs/2023arXiv230300006L/abstract)
+- [Self-Consistent Spin, Tidal and Dynamical Equations of Motion in the REBOUNDx Framework](https://ui.adsabs.harvard.edu/abs/2023ApJ...948...41L/abstract)
 <br>Lu, T., Rein, H., et al. including **Hadden, S.**, AJ, 948, 41
 
 - [Simple Physics and Integrators Accurately Reproduce Mercury Instability Statistics](https://ui.adsabs.harvard.edu/abs/2023ApJ...944..190A/abstract)
@@ -56,7 +58,7 @@ Refereed
 
 **2022**
 
- - [celmech: A Python package for celestial mechanics](https://ui.adsabs.harvard.edu/abs/2022arXiv220510385H/abstract)
+ - [celmech: A Python package for celestial mechanics](https://ui.adsabs.harvard.edu/abs/2022AJ....164..179H/abstract)
 <br> **Hadden, S.**, Tamayo, D., AJ, 164, 179
 
  - [The Effects of Disk Induced Apsidal Precession on Planets Captured into Mean Motion Resonance](https://ui.adsabs.harvard.edu/abs/2022ApJ...931...66M/abstract)
@@ -65,7 +67,7 @@ Refereed
  - [Stepsize errors in the N-body problem: discerning Mercury's true possible long-term orbits](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.4302H/abstract)
 <br> Hernandez, D. M., Zeebe, R. E.,  **Hadden, S.**; MNRAS, 510, 4302
 
- - [The Criterion for Chaos in Three-Planet Systems](https://ui.adsabs.harvard.edu/abs/2021arXiv211002956R/abstract)
+ - [The Criterion for Chaos in Three-Planet Systems](https://ui.adsabs.harvard.edu/abs/2022ApJ...932...61R/abstract)
 <br> *Rath, J.*,  **Hadden, S.**,  Lithwick, Y., AJ, 932, 61
 
 **2021**
