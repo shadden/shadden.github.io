@@ -14,11 +14,14 @@ Refereed
 
 **2025**
 
-- [Eccentricities of Close Stellar Binaries](https://arxiv.org/abs/2411.09905)
-<br>Wu, Y., **Hadden, S.**, Dewberry, J., et al., ApJL, in press.
+- [Free Floating or Merely Detached?](https://arxiv.org/abs/2507.08968)
+<br> **Hadden, S.**, Wu, Y., submitted
 
-- [Influence of Modeling Assumptions on the Inferred Dynamical State of Resonant Systems: A Case Study of the HD 45364 System](https://arxiv.org/abs/2410.21429)
-<br>*Chow, I.* & **Hadden, S.**, ApJ, in press.
+- [Eccentricities of Close Stellar Binaries](https://ui.adsabs.harvard.edu/abs/2025ApJ...982L..34W/abstract)
+<br>Wu, Y., **Hadden, S.**, Dewberry, J., et al., ApJL, 982, L34
+
+- [Influence of Modeling Assumptions on the Inferred Dynamical State of Resonant Systems: A Case Study of the HD 45364 System](https://ui.adsabs.harvard.edu/abs/2025ApJ...980..236C/abstract)
+<br>*Chow, I.* & **Hadden, S.**, ApJ, 980, 236
 
 **2024**
 
