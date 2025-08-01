@@ -20,6 +20,9 @@ Refereed
 - [Eccentricities of Close Stellar Binaries](https://ui.adsabs.harvard.edu/abs/2025ApJ...982L..34W/abstract)
 <br>Wu, Y., **Hadden, S.**, Dewberry, J., et al., ApJL, 982, L34
 
+- [A Unified, Physical Framework for Mean Motion Resonances](https://ui.adsabs.harvard.edu/abs/2025ApJ...986...11T/abstract)
+<br>Tamayo, D. & **Hadden, S.**, ApJ, 986, 11
+
 - [Influence of Modeling Assumptions on the Inferred Dynamical State of Resonant Systems: A Case Study of the HD 45364 System](https://ui.adsabs.harvard.edu/abs/2025ApJ...980..236C/abstract)
 <br>*Chow, I.* & **Hadden, S.**, ApJ, 980, 236
 
@@ -27,9 +30,6 @@ Refereed
 
 - [Creating Pileups of Eccentric Planet Pairs Wide of MMRs Through Divergent Migration](https://arxiv.org/pdf/2412.12415)
 <br>Lin, J., Dudiak, I., **Hadden, S.**, & Tamayo, D., submitted.
-
-- [A Unified, Physical Framework for Mean Motion Resonances](https://arxiv.org/abs/2410.21748)
-<br>Tamayo, D. & **Hadden, S.**, submitted.
 
 - [Accelerating Giant Impact Simulations with Machine Learning](https://ui.adsabs.harvard.edu/abs/2024ApJ...975..228L/abstract)
 <br>Lammers, C., Cranmer, M., **Hadden, S.**, et al., ApJ, 975, 228
