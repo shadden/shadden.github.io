@@ -14,6 +14,9 @@ Refereed
 
 **2025**
 
+- [Creating Pileups of Eccentric Planet Pairs Wide of MMRs Through Divergent Migration](https://arxiv.org/pdf/2412.12415)
+<br>Lin, J., Dudiak, I., **Hadden, S.**, & Tamayo, D., ApJ, in press
+
 - [Free Floating or Merely Detached?](https://arxiv.org/abs/2507.08968)
 <br> **Hadden, S.**, Wu, Y., submitted
 
@@ -27,9 +30,6 @@ Refereed
 <br>*Chow, I.* & **Hadden, S.**, ApJ, 980, 236
 
 **2024**
-
-- [Creating Pileups of Eccentric Planet Pairs Wide of MMRs Through Divergent Migration](https://arxiv.org/pdf/2412.12415)
-<br>Lin, J., Dudiak, I., **Hadden, S.**, & Tamayo, D., submitted.
 
 - [Accelerating Giant Impact Simulations with Machine Learning](https://ui.adsabs.harvard.edu/abs/2024ApJ...975..228L/abstract)
 <br>Lammers, C., Cranmer, M., **Hadden, S.**, et al., ApJ, 975, 228
