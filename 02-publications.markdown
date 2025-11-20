@@ -14,8 +14,8 @@ Refereed
 
 **2025**
 
-- [Creating Pileups of Eccentric Planet Pairs Wide of MMRs Through Divergent Migration](https://arxiv.org/pdf/2412.12415)
-<br>Lin, J., Dudiak, I., **Hadden, S.**, & Tamayo, D., ApJ, in press
+- [Creating Pileups of Eccentric Planet Pairs Wide of MMRs Through Divergent Migration](https://iopscience.iop.org/article/10.3847/1538-4357/ae17cf)
+<br>Lin, J., Dudiak, I., **Hadden, S.**, & Tamayo, D., ApJ, 994, 123
 
 - [Free Floating or Merely Detached?](https://arxiv.org/abs/2507.08968)
 <br> **Hadden, S.**, Wu, Y., submitted
