@@ -9,7 +9,9 @@ My research focuses on understanding gravitational *N*-body dynamics and its ast
 I have mostly focused planetary systems and have explored a range of topics, from measuring planet masses and orbits via dynamical modeling to understanding the long-term evolution of planets' orbits.
 My past research topics have included: 
 
+  - [Free-floating planets](#free-floating-planets)
   - [Scattered Disk Dynamics](#scattered-disk-dynamics)
+  - [Hamiltonian mechanics for galaxies](#hamiltonian-mechanics-for-galaxies)
   - [Intra-system uniformity](#intra-system-uniformity)
   - [Numerical Methods](#numerical-methods)
   - [Migration and Resonance Capture](#migration-and-resonance-capture)
@@ -19,12 +21,23 @@ My past research topics have included:
   - [Planet 9](#dynamics-of-planet-9)
   - [Transit Timing Variations](#transit-timing-variations)
 
+Free floating planets
+---------------------
+
+Microlensing surveys are uniquely capable of detecting low-mass planetary bodies at wide separations from their host star or even completely unbound from any star. Recent ground-based microlensing survey results suggest that there is a large population of low-mass free floating planets (FFPs), with approximately two Neptune-mass planets per star. In [Hadden & Wu (2025)](https://arxiv.org/abs/2507.08968), I explored the dynamics of FFP production through planet-planet scattering. Because Jupiter-mass planets are relatively rare, most FFPs probably originate in systems of lower-mass planets. In low-mass systems, the ejection process can take billions of years or more. Furthermore, dynamical scattering in multi-planet systems almost invariablly emplaces planets on ``detached" orbits; large semi-major axis, high-eccentricty orbits that are dynamically decoupled from any planets remaining closer in. (These are planetary-mass analogues of our solar system's detached trans-Neptunian objects.) These dynamical facts imply many apparent 'free floating' planets are likely to instead be detached objects orbiting at hundreds of AU from their host star. 
+
 Scattered Disk Dynamics
 -----------------------
 
 ![scatteredDisk]
 
 Small bodies beyond the orbit of Neptune are understood to be the remnants of an intially much larger planetesimal population that was dynamically sculpted away by interactions with the giant planets early in the solar system's history. The scattered disk is a large sub-population of these trans-Neptunian objects whose highly eccentric orbits evolve quasi-randomly due to dynamical interactions with Neptune. With an eye towards better understanding what the orbital distribution of the trans-Neptunian objects we see observe implies about the solar system's formation and early evolution, I worked out a mapping description of highly eccentric orbits subject to perturbations by a planetary-mass companion in [paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230900684H/abstract) with Scott Tremaine. This mapping description elucidates how the orbital dynamics depend pericenter distance and pertuber mass and serves as basis for deriving a statistical description of the chaotic transport experienced by this population over billions of years of dynamical evolution.
+
+Hamiltonian mechanics for galaxies
+----------------------------------
+
+Studying the distribution of stellar orbits in our Milky Way and other galaxies can provide valuable information about everything from galactic assembly and evolution to the gravitational influence of dark matter. Action-angle (AA) variables provide an especially powerful theoretical tool for describing and studying the orbits of stars. However, it is seldom possible to compute AA variables explicitly in all but the most idealized models of galaxies' gravitational potentials. In [Hadden (2024)](https://ui.adsabs.harvard.edu/abs/2024ApJ...972...64H/abstract), I introduced a novel means of computing AA variables by means of `Birkhoff normalization', a technique from Hamiltonian perturbation theory. This method has a number of potential advantages over the frequently adopted "Stäckel fudge" method. For instance, it provides explicit expressions for both the forward and inverse transformations between AA variables and position-velocity data, 
+
 
 Intra system uniformity
 -----------------------
