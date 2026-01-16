@@ -12,6 +12,11 @@ order: 3
 Refereed
 --------
 
+**2026**
+
+- [Canceling Effects of Conjunctions Render Higher Order Mean Motion Resonances Weak](https://arxiv.org/abs/2601.10585)
+<br> Jones, E., **Hadden , S.**, & Tamayo, D., submitted
+
 **2025**
 
 - [Free Floating or Merely Detached?](https://arxiv.org/abs/2507.08968)
