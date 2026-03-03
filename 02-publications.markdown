@@ -14,6 +14,9 @@ Refereed
 
 **2026**
 
+- [Rattle-and-Break: the Impact of Planetesimal Scattering on Super-Earth Resonant Chains](https://arxiv.org/abs/2602.21349)
+<br> **Hadden , S.**, Wu, Y., submitted
+
 - [Canceling Effects of Conjunctions Render Higher Order Mean Motion Resonances Weak](https://arxiv.org/abs/2601.10585)
 <br> Jones, E., **Hadden , S.**, & Tamayo, D., submitted
 
