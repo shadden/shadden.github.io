@@ -17,15 +17,15 @@ Refereed
 - [Rattle-and-Break: the Impact of Planetesimal Scattering on Super-Earth Resonant Chains](https://arxiv.org/abs/2602.21349)
 <br> **Hadden , S.**, Wu, Y., submitted
 
-- [Canceling Effects of Conjunctions Render Higher Order Mean Motion Resonances Weak](https://arxiv.org/abs/2601.10585)
-<br> Jones, E., **Hadden , S.**, & Tamayo, D., submitted
+- [Canceling Effects of Conjunctions Render Higher Order Mean Motion Resonances Weak](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000...64J/abstract)
+<br> Jones, E., **Hadden , S.**, & Tamayo, D., ApJ, 1000, 64
+
+- [Free Floating or Merely Detached?](https://arxiv.org/abs/2507.08968)
+<br> **Hadden, S.**, Wu, Y., ApJ in press.
 
 **2025**
 
-- [Free Floating or Merely Detached?](https://arxiv.org/abs/2507.08968)
-<br> **Hadden, S.**, Wu, Y., submitted
-
-- [Creating Pileups of Eccentric Planet Pairs Wide of MMRs Through Divergent Migration](https://iopscience.iop.org/article/10.3847/1538-4357/ae17cf)
+- [Creating Pileups of Eccentric Planet Pairs Wide of MMRs Through Divergent Migration](https://ui.adsabs.harvard.edu/abs/2025ApJ...994..123L/abstract)
 <br>Lin, J., Dudiak, I., **Hadden, S.**, & Tamayo, D., ApJ, 994, 123
 
 - [Eccentricities of Close Stellar Binaries](https://ui.adsabs.harvard.edu/abs/2025ApJ...982L..34W/abstract)
