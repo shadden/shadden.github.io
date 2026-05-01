@@ -18,7 +18,7 @@ Refereed
 <br> **Hadden , S.**, Wu, Y., submitted
 
 - [Canceling Effects of Conjunctions Render Higher Order Mean Motion Resonances Weak](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000...64J/abstract)
-<br> Jones, E., **Hadden , S.**, & Tamayo, D., ApJ, 1000, 64
+<br> Jones, E., **Hadden , S.**,  Teekamongkol, S., & Tamayo, D., ApJ, 1000, 64
 
 - [Free Floating or Merely Detached?](https://arxiv.org/abs/2507.08968)
 <br> **Hadden, S.**, Wu, Y., ApJ in press.
