@@ -18,7 +18,7 @@ Refereed
 <br> Lee, E.J., DeRocco, W., **Hadden , S.**, Gaudi, B. S., ApJL, in press
 
 - [Rattle-and-Break: the Impact of Planetesimal Scattering on Super-Earth Resonant Chains](https://arxiv.org/abs/2602.21349)
-<br> **Hadden , S.**, Wu, Y., ApJ, in press
+<br> **Hadden , S.**, Wu, Y., ApJ, 1004, 211
 
 - [Canceling Effects of Conjunctions Render Higher Order Mean Motion Resonances Weak](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000...64J/abstract)
 <br> Jones, E., **Hadden , S.**,  Teekamongkol, S., & Tamayo, D., ApJ, 1000, 64
