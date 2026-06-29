@@ -40,8 +40,11 @@ If a planet orbits its star on a more elliptical orbit, the star's radial veloci
        alt="Radial velocity measurements of HD 80606"
        style="max-width: 100%; width: 600px;">
   <figcaption>
-    Radial velocity measurements of HD 80606. 
-    Image taken from [ESO](https://www.eso.org/public/images/eso0114b/).
+    Radial velocity measurements of HD 80606.
+    Image courtesy of
+    <a href="https://www.eso.org/public/images/eso0114b/" target="_blank" rel="noopener">
+      ESO
+    </a>.
   </figcaption>
 </figure>
 
