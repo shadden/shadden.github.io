@@ -14,10 +14,10 @@ Refereed
 
 **2026**
 
-- [The Persistent Missing Mass Problem in Planet Formation](https://arxiv.org/abs/2605.26216)
-<br> Lee, E.J., DeRocco, W., **Hadden , S.**, Gaudi, B. S., ApJL, in press
+- [The Persistent Missing Mass Problem in Planet Formation](https://ui.adsabs.harvard.edu/abs/2026ApJ..1005L..18L/abstract)
+<br> Lee, E.J., DeRocco, W., **Hadden , S.**, Gaudi, B. S., ApJL, 1005, L18
 
-- [Rattle-and-Break: the Impact of Planetesimal Scattering on Super-Earth Resonant Chains](https://arxiv.org/abs/2602.21349)
+- [Rattle-and-Break: the Impact of Planetesimal Scattering on Super-Earth Resonant Chains](https://ui.adsabs.harvard.edu/abs/2026ApJ..1004..211H/abstract)
 <br> **Hadden , S.**, Wu, Y., ApJ, 1004, 211
 
 - [Canceling Effects of Conjunctions Render Higher Order Mean Motion Resonances Weak](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000...64J/abstract)
