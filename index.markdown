@@ -24,5 +24,5 @@ Miscellania
 [cita]: https://www.cita.utoronto.ca
 [cfa]: https://www.cfa.harvard.edu
 [northwestern]: https://ciera.northwestern.edu
-[me]: /assets/images/SamH.jpeg
+[me]: /assets/images/SamH.jpg
 [ekl]: /assets/mathematica/EccentricKozaiLidov_LithwickNaoz2011.nb
