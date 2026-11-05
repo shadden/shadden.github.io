@@ -15,4 +15,4 @@ Before that, I received my PhD in Physics and Astronomy from Northwestern Univer
 
 [cita]: https://www.cita.utoronto.ca
 [cfa]: https://www.cfa.harvard.edu
-[me]: /assets/images/sam_hadden.jpg
+[me]: /assets/images/SamH.jpg
