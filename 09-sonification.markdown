@@ -80,6 +80,19 @@ Most of the systems have an ``inharmonic" or bell-like sound to them with no obv
   Your browser does not support the video tag.
 </video>
 
+The special orbital arrangements of these chain systems are a tell-tale sign that they formed via orbital migration, presumably due to dissipative interactions with their natal protoplanetary disk.
+
+Forming the Kepler-60 System via Orbital Migration
+--------------------------------------------------
+
+The animation below shows a simulation of a possible formation history of the Kepler-60 system, a resonant chain of three planets with orbital frequencies in a 5:4:3 ratio. (This corresponds to a [2nd inversion](https://en.wikipedia.org/wiki/Second_inversion) of a [major triad](https://en.wikipedia.org/wiki/Major_chord) in [just intonation](https://en.wikipedia.org/wiki/Just_intonation).) The simulation is carried out with the [rebound](https://rebound.hanno-rein.de) N-body code and includes some additional forces to mimic the dissipative effects of a gaseous disk. The system escapes temporary capture in more widely spaced resonances due to some dynamical instabilities before settling into the 5:4:3 chain configrution it is observed in today.
+
+The sonification is done by playing the radial velocity signals of all three planets simultaneously. As above, I've transposed the signals by ~28 octaves. (Note that, for clarity, I haven't appropriately weighted the relative amplitdues of the signals according to the planet masses or periods.) The eccentricities are also exagerated by a factor of x10 in the sonification to produce a more dramatic timbral change.
+
+<video controls width="100%">
+  <source src="/assets/kepler_60_example_with_sound.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 [^1]: Note that the examples here are **not** sonifying the Doppler shift of the host star's spectrum itself. While a star's Doppler shift does have a close analogy with the audible phenomenon of an ambulence siren's pitch shifting as it passes by a listener, we're instead working with something somewhat more abstract. Specifically, we're using the values of a star's velocity over time to control the displacement of a speaker cone.
