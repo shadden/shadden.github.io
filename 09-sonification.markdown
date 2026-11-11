@@ -5,7 +5,7 @@ permalink: /sonification/
 order: 9
 ---
 
-I've been learning [SuperCollider](https://supercollider.github.io) and using it for sonification, scientific and otherwise! Below I've collected some examples.
+I've been learning [SuperCollider](https://supercollider.github.io) and using it for sonification, scientific and otherwise! Below I've collected some examples. You can find source code [here](https://github.com/shadden/ScienceSonification/tree/main).
 
 Radial velocities as sound
 --------------------------
