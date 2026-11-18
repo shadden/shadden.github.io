@@ -9,6 +9,7 @@ My research focuses on understanding gravitational *N*-body dynamics and its ast
 I have mostly focused planetary systems and have explored a range of topics, from measuring planet masses and orbits via dynamical modeling to understanding the long-term evolution of planets' orbits.
 My past research topics have included: 
 
+  - [Resonant chians](#resonant-chains)
   - [Free-floating planets](#free-floating-planets)
   - [Scattered Disk Dynamics](#scattered-disk-dynamics)
   - [Hamiltonian mechanics for galaxies](#hamiltonian-mechanics-for-galaxies)
@@ -20,6 +21,13 @@ My past research topics have included:
   - [Mean motion resonance](#mean-motion-resonances)
   - [Planet 9](#dynamics-of-planet-9)
   - [Transit Timing Variations](#transit-timing-variations)
+
+Resonant chains
+---------------
+
+The emerging theoretical picture of super-Earth formation holds that these planets migrate to their present orbital locations through dissipative interactions with the disk. This migration invariably assembles systems into “resonant chains”, configurations in which planets’ orbital frequencies are harmoniously arranged in [integer ratios](#mean-motion-resonances), like the notes of a [musical chord](/sonification). However, resonant chains are rare among the mature super-Earth population, despite expectations that they should form ubiquitously. 
+In [Hadden & Wu (2026)](https://scixplorer.org/abs/2026ApJ..1004..211H/abstract?fromADS=true&ads_compat=1), I showed that scattering of leftover planetesimals provides a natural mechanism for destabilizing primoridal chains while simultaneously accounting for the observed excesses of transiting planet pairs found wide of MMRs.
+
 
 Free floating planets
 ---------------------
@@ -36,7 +44,8 @@ Small bodies beyond the orbit of Neptune are understood to be the remnants of an
 Hamiltonian mechanics for galaxies
 ----------------------------------
 
-Studying the distribution of stellar orbits in our Milky Way and other galaxies can provide valuable information about everything from galactic assembly and evolution to the gravitational influence of dark matter. Action-angle (AA) variables provide an especially powerful theoretical tool for describing and studying the orbits of stars. However, it is seldom possible to compute AA variables explicitly in all but the most idealized models of galaxies' gravitational potentials. In [Hadden (2024)](https://ui.adsabs.harvard.edu/abs/2024ApJ...972...64H/abstract), I introduced a novel means of computing AA variables by means of `Birkhoff normalization', a technique from Hamiltonian perturbation theory. This method has a number of potential advantages over the frequently adopted "Stäckel fudge" method. For instance, it provides explicit expressions for both the forward and inverse transformations between AA variables and position-velocity data. You can find a numerical implementation of the method [here] (https://github.com/shadden/AA_variables_via_Birkhoff_Normalization).
+Studying the distribution of stellar orbits in our Milky Way and other galaxies can provide valuable information about everything from galactic assembly and evolution to the gravitational influence of dark matter. Action-angle (AA) variables provide an especially powerful theoretical tool for describing and studying the orbits of stars. However, it is seldom possible to compute AA variables explicitly in all but the most idealized models of galaxies' gravitational potentials. In [Hadden (2024)](https://ui.adsabs.harvard.edu/abs/2024ApJ...972...64H/abstract), I introduced a novel means of computing AA variables by means of `Birkhoff normalization', a technique from Hamiltonian perturbation theory. This method has a number of potential advantages over the frequently adopted "Stäckel fudge" method. For instance, it provides explicit expressions for both the forward and inverse transformations between AA variables and position-velocity data. 
+You can find a numerical implementation of the method [here](https://github.com/shadden/AA_variables_via_Birkhoff_Normalization).
 
 
 Intra system uniformity
@@ -56,7 +65,7 @@ Migration and Resonance Capture
 
 ![planetMigration]
 
-Planets residing in [mean motion resonances](#migration-and-resonance-capture) are generally assumed to reach these orbital configurations as a result of orbital migration and eccentricity damping experienced during the protoplanetary disk phase of a planetary system's life. In [Hadden & Payne (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....160..106H/abstract) I showed how the dynamical state of resonant planets measured from RV fits could be used to constrain the migration histories that led to MMR capture.
+Planets residing in [mean motion resonances](#migration-and-resonance-capture) are generally assumed to reach these orbital configurations as a result of orbital migration and eccentricity damping experienced during the protoplanetary disk phase of a planetary system's life. In [Hadden & Payne (2020)](https://ui.adsabs.harvard.edu/abs/2020AJ....160..106H/abstract) I showed how the dynamical state of resonant planets measured from RV fits could be used to constrain the migration histories that led to MMR capture. 
 
 Instability of Mercury
 ----------------------
@@ -70,18 +79,19 @@ One of the most significant results of modern celestial mechanics is the discove
 Dynamical Chaos
 ---------------
 
-In [Hadden & Lithwick (2018)](https://ui.adsabs.harvard.edu/abs/2018AJ....156...95H/abstract) I derived an anlytic criterion for the onset of chaos in two-planet systems. This criterion is applicable to the case closely-spaced planets with non-zero eccentricities, the dynamical regime occupied most observed exoplanetary systems.
+In [Hadden & Lithwick (2018)](https://ui.adsabs.harvard.edu/abs/2018AJ....156...95H/abstract) I derived an anlytic criterion for the onset of chaos in two-planet systems. This criterion is applicable to the case closely-spaced planets with non-zero eccentricities, the dynamical regime occupied most observed exoplanetary systems. In [Rath et al. (2022)](https://scixplorer.org/abs/2022ApJ...932...61R/abstract?fromADS=true&ads_compat=1), we developed a theory for the onset of chaos in three-planet systems based on resonance overlap. In [Lammers et al (2024)](https://scixplorer.org/abs/2024ApJ...972...53L/abstract?fromADS=true&ads_compat=1) we explore instability timescales in compact systems and the role of mean-motion and three-body resonances in producing instabilities. 
+[Tamayo et al. (2020)](https://scixplorer.org/abs/2020PNAS..11718194T/abstract?fromADS=true&ads_compat=1) and [Cranmer et al. (2021)](https://www.pnas.org/content/118/40/e2026053118) apply machine learning methods to drastically accelerate predictions of whether or not planetary systems' orbital confiugrations are stable.
 
 Mean Motion Resonances
 ----------------------
 
 Mean motion resonances (MMRs), integer ratio relationships between the orbital periods of planets or satellites, occur an a wide variety of contexts in orbital dynamics. 
-In [Hadden (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....158..238H/abstract), I derived an analytic model that can accurately capture the resoant dynamics of pairs of planetary-mass objects in MMR.
+In [Hadden (2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....158..238H/abstract), I derived an analytic model that can accurately capture the resoant dynamics of pairs of planetary-mass objects in MMR. If classical disturbing function expansions and perturabtion theory aren't your thing, [Tamayo & Hadden (2025)](https://scixplorer.org/abs/2025ApJ...986...11T/abstract?fromADS=true&ads_compat=1) and [Jones et al. 2026](https://scixplorer.org/abs/2026ApJ..1000...64J/abstract?fromADS=true&ads_compat=1) develop models for MMR from a physical description of the effects of repeated conjunctions. [Chow & Hadden (2025)](https://scixplorer.org/abs/2025ApJ...980..236C/abstract?fromADS=true&ads_compat=1) explores the role that modelling assumptions play when inferring the dynamical state of systems in or near resonance.
 
 
 Dynamics of Planet 9
 --------------------
-[Batygin & Brown (2016)](https://ui.adsabs.harvard.edu/abs/2016AJ....151...22B/abstract) hypothesized the existence of yet-undiscovered Neptune-sized planet on a distant, eccentric and inclined orbit in order to explain some unexpected clustering in the orbital properties of the most distant trans-Neptunian objects (TNOs). In [Hadden et. al. 2018](https://ui.adsabs.harvard.edu/abs/2018AJ....155..249H/abstract), I explored the dynamical mechanisms at play in generating orbital clustering and driving chaotic semi-major axis evolution of TNOs under the influence of Planet 9. 
+[Batygin & Brown (2016)](https://ui.adsabs.harvard.edu/abs/2016AJ....151...22B/abstract) hypothesized the existence of yet-undiscovered Neptune-sized planet on a distant, eccentric and inclined orbit in order to explain some unexpected clustering in the orbital properties of the most distant trans-Neptunian objects (TNOs). In [Hadden et al. 2018](https://ui.adsabs.harvard.edu/abs/2018AJ....155..249H/abstract), I explored the dynamical mechanisms at play in generating orbital clustering and driving chaotic semi-major axis evolution of TNOs under the influence of Planet 9. [Li et al (2018)](https://scixplorer.org/abs/2018AJ....156..263L/abstract?fromADS=true&ads_compat=1) and [Bhaskar et al. (2021)](https://scixplorer.org/abs/2021AJ....161...48B/abstract?fromADS=true&ads_compat=1) explore the secular dynamics induced by the presence of a planet 9.
 
 
 Transit Timing Variations
