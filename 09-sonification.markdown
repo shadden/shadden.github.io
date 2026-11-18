@@ -59,6 +59,13 @@ If we translate  HD 80606's radial velocity into sound (playing the signal at 15
 
 The "buzzier" sound of HD 80606's radial velocity is a result of the sharp jumps in the stars velocity, evident in the plot above, that occur when the planet rapidly swings through pericenter.
 
+The animation below illustrates the effect of modulating the orbital eccentricity on timbre:
+
+<video controls width="100%">
+  <source src="/assets/eccentric_orbit_with_sound.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 "Harmonies of the (Exo)Spheres"
 --------------------------------
@@ -96,5 +103,6 @@ The sonification is done by playing the radial velocity signals of all three pla
 
 
 [^1]: Note that the examples here are **not** sonifying the Doppler shift of the host star's spectrum itself. While a star's Doppler shift does have a close analogy with the audible phenomenon of an ambulence siren's pitch shifting as it passes by a listener, we're instead working with something somewhat more abstract. Specifically, we're using the values of a star's velocity over time to control the displacement of a speaker cone.
-[^2] The duration of the movie has been set arbitrarily and hasn't been scaled based on my transposition of the frequencies. For clarity, I haven't appropriately weighted the relative amplitdues of the signals according to the planet masses or periods. The eccentricities are also exagerated by a factor of 10 in the sonification to produce a more dramatic timbral change. 
+
+[^2]: The duration of the movie has been set arbitrarily and hasn't been scaled based on my transposition of the frequencies. For clarity, I haven't appropriately weighted the relative amplitdues of the signals according to the planet masses or periods. The eccentricities are also exagerated by a factor of 10 in the sonification to produce a more dramatic timbral change. 
 
